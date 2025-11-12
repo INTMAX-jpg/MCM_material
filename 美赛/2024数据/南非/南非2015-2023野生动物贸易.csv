@@ -1,0 +1,1443 @@
+Year,App.,Taxon,Class,Order,Family,Genus,Importer,Exporter,Origin,Importer reported quantity,Exporter reported quantity,Term,Unit,Purpose,Source
+2015,I,Cacatua goffiniana,Aves,Psittaciformes,Cacatuidae,Cacatua,IT,ZA,,,2,live,,P,
+2015,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,AE,ZA,NG,,1,tusks,,P,W
+2015,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,FR,ZA,MZ,1,,ivory carvings,,P,W
+2015,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,FR,ZA,MZ,1,,trophies,,P,W
+2015,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,GB,ZA,ZM,,1,ivory pieces,,P,W
+2015,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,PT,ZA,,,1,leather products (small),,P,W
+2015,I,Acinonyx jubatus,Mammalia,Carnivora,Felidae,Acinonyx,AU,ZA,ZW,,1,skins,,P,W
+2015,I,Panthera pardus,Mammalia,Carnivora,Felidae,Panthera,AU,ZA,ZW,,1,skins,,P,W
+2015,I,Panthera pardus,Mammalia,Carnivora,Felidae,Panthera,CA,ZA,,2,,skins,,P,W
+2015,I,Panthera pardus,Mammalia,Carnivora,Felidae,Panthera,CA,ZA,,2,,skulls,,P,W
+2015,I,Panthera pardus,Mammalia,Carnivora,Felidae,Panthera,CN,ZA,,,1,trophies,,P,W
+2015,I,Panthera pardus,Mammalia,Carnivora,Felidae,Panthera,FR,ZA,MZ,2,,trophies,,P,W
+2015,I,Panthera pardus,Mammalia,Carnivora,Felidae,Panthera,PH,ZA,,1,,trophies,,P,W
+2015,I,Panthera pardus,Mammalia,Carnivora,Felidae,Panthera,RU,ZA,,1,,trophies,,P,W
+2015,I,Dalbergia nigra,,Fabales,Leguminosae,Dalbergia,US,ZA,XX,,1,derivatives,,P,W
+2015,I,Diceros bicornis,Mammalia,Perissodactyla,Rhinocerotidae,Diceros,FR,ZA,,1,,trophies,,P,W
+2015,I,Diceros bicornis,Mammalia,Perissodactyla,Rhinocerotidae,Diceros,MY,ZA,,6,,trophies,,P,W
+2015,II,Sarkidiornis melanotos,Aves,Anseriformes,Anatidae,Sarkidiornis,US,ZA,,,1,trophies,,P,W
+2015,II,Cephalophus dorsalis,Mammalia,Artiodactyla,Bovidae,Cephalophus,US,ZA,XX,,2,trophies,,P,W
+2015,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,PH,ZA,,1,,trophies,,P,W
+2015,II,Philantomba maxwellii,Mammalia,Artiodactyla,Bovidae,Philantomba,AU,ZA,CF,1,,skins,,P,W
+2015,II,Philantomba maxwellii,Mammalia,Artiodactyla,Bovidae,Philantomba,AU,ZA,CF,1,,skulls,,P,W
+2015,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,ZA,,,1,trophies,,P,W
+2015,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,ES,ZA,,1,1,trophies,,P,W
+2015,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,FI,ZA,,1,,skulls,,P,W
+2015,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,FR,ZA,,,7,skulls,,P,W
+2015,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,GB,ZA,,,1,skulls,,P,W
+2015,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,JP,ZA,,,4,skulls,,P,W
+2015,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,RO,ZA,,,2,skulls,,P,W
+2015,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,SE,ZA,,,1,skulls,,P,W
+2015,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,SE,ZA,,,2,trophies,,P,W
+2015,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,ZA,,,1,bodies,,P,W
+2015,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,ZA,,,2,skins,,P,W
+2015,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,ZA,,,35,skulls,,P,W
+2015,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,ZA,,,4,trophies,,P,W
+2015,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,AT,ZA,,1,,trophies,,P,W
+2015,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,AU,ZA,,,2,skulls,,P,W
+2015,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,BE,ZA,,3,3,skulls,,P,W
+2015,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,CA,ZA,,,2,skulls,,P,W
+2015,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,CA,ZA,,,2,trophies,,P,W
+2015,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,DE,ZA,,1,1,skulls,,P,W
+2015,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,DK,ZA,,,1,bodies,,P,W
+2015,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,FI,ZA,,,1,skulls,,P,W
+2015,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,FR,ZA,,,8,skulls,,P,W
+2015,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,FR,ZA,,1,2,trophies,,P,W
+2015,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,GB,ZA,,,1,skulls,,P,W
+2015,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,RO,ZA,,,1,skulls,,P,W
+2015,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,RO,ZA,,,1,trophies,,P,W
+2015,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,SK,ZA,,,1,skulls,,P,W
+2015,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,US,ZA,,,2,bodies,,P,W
+2015,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,US,ZA,,,1,skins,,P,W
+2015,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,US,ZA,,1,9,skulls,,P,W
+2015,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,US,ZA,,3,9,trophies,,P,W
+2015,II,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,AT,ZA,,1,,skins,,P,W
+2015,II,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,FR,ZA,ZM,1,,trophies,,P,W
+2015,II,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,KZ,ZA,ZW,1,,skin pieces,,P,W
+2015,II,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,PH,ZA,,1,,trophies,,P,W
+2015,II,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,US,ZA,,10,,skin pieces,,P,W
+2015,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,AU,ZA,,,1,ivory pieces,,P,W
+2015,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,AU,ZA,,,2,tusks,,P,W
+2015,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,BE,ZA,,4,,feet,,P,W
+2015,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,BE,ZA,,2,,skin pieces,,P,W
+2015,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,BG,ZA,,,1,leather products (small),,P,W
+2015,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CA,ZA,,,1,ears,,P,W
+2015,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CA,ZA,,,1,feet,,P,W
+2015,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CH,ZA,,,1,tusks,,P,W
+2015,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CN,ZA,,,2,feet,,P,W
+2015,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CN,ZA,,,3,skins,,P,W
+2015,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,DE,ZA,,,1,bones,,P,W
+2015,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,DE,ZA,,,1,skulls,,P,W
+2015,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,FR,ZA,BW,13,,trophies,,P,W
+2015,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,FR,ZA,,,1,derivatives,,P,W
+2015,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,FR,ZA,,,1,hair,,P,W
+2015,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,FR,ZA,,8,,ivory carvings,,P,W
+2015,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,FR,ZA,,2,,trophies,,P,W
+2015,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,GB,ZA,ZM,,1,ivory pieces,,P,W
+2015,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,GB,ZA,,,52,piano keys,,P,W
+2015,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,IE,ZA,NA,,1,leather products (small),,P,W
+2015,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,IT,ZA,,2,1,ears,,P,W
+2015,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,KZ,ZA,ZW,1,,skin pieces,,P,W
+2015,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,LB,ZA,,,1,feet,,P,W
+2015,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,NO,ZA,,1,,skins,,P,W
+2015,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,PH,ZA,ZW,2,,trophies,,P,W
+2015,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,PH,ZA,ZW,4,,tusks,,P,W
+2015,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,PH,ZA,,2,,ears,,P,W
+2015,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,PH,ZA,,1,,feet,,P,W
+2015,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,PH,ZA,,1,,skin pieces,,P,W
+2015,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,PH,ZA,,1,,tails,,P,W
+2015,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,PH,ZA,,2,,tusks,,P,W
+2015,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,RU,ZA,,,1,leather products (small),,P,W
+2015,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,RU,ZA,,,2,skins,,P,W
+2015,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,ZA,BW,,1,feet,,P,W
+2015,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,ZA,,,1,bones,,P,W
+2015,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,ZA,,4,1,feet,,P,W
+2015,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,ZA,,,1,hair,,P,W
+2015,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,ZA,,8,,hair products,,P,W
+2015,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,ZA,,,2,ivory carvings,,P,W
+2015,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,ZA,,,1,leather products (small),,P,W
+2015,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,AT,ZA,NA,,1,skins,,P,W
+2015,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,AU,ZA,NA,1,4,skins,,P,W
+2015,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,CN,ZA,NA,,2,leather products (small),,P,W
+2015,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,CN,ZA,,2,,leather products (large),,P,W
+2015,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,DE,ZA,NA,1,3,skins,,P,W
+2015,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,DE,ZA,,1,1,skins,,P,W
+2015,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,GB,ZA,NA,,2,leather products (small),,P,W
+2015,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,GB,ZA,NA,,1,skins,,P,W
+2015,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,MU,ZA,NA,,1,skins,,P,W
+2015,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,NL,ZA,NA,,2,skins,,P,W
+2015,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,PT,ZA,NA,,1,leather products (small),,P,W
+2015,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,RO,ZA,NA,,2,skins,,P,W
+2015,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,RU,ZA,NA,,1,skins,,P,W
+2015,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,SD,ZA,NA,,1,leather products (small),,P,W
+2015,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,SD,ZA,NA,,1,skins,,P,W
+2015,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,SE,ZA,NA,,1,skins,,P,W
+2015,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,SG,ZA,NA,1,1,skins,,P,W
+2015,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,US,ZA,,1,1,skins,,P,W
+2015,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,US,ZA,,,1,trophies,,P,W
+2015,II,Caracal caracal,Mammalia,Carnivora,Felidae,Caracal,ES,ZA,,1,,trophies,,P,W
+2015,II,Caracal caracal,Mammalia,Carnivora,Felidae,Caracal,FR,ZA,,2,,trophies,,P,W
+2015,II,Caracal caracal,Mammalia,Carnivora,Felidae,Caracal,GB,ZA,,,1,trophies,,P,W
+2015,II,Caracal caracal,Mammalia,Carnivora,Felidae,Caracal,NZ,ZA,,,1,trophies,,P,W
+2015,II,Caracal caracal,Mammalia,Carnivora,Felidae,Caracal,PH,ZA,,1,,skulls,,P,W
+2015,II,Caracal caracal,Mammalia,Carnivora,Felidae,Caracal,PH,ZA,,1,,trophies,,P,W
+2015,II,Caracal caracal,Mammalia,Carnivora,Felidae,Caracal,PT,ZA,,,3,trophies,,P,W
+2015,II,Caracal caracal,Mammalia,Carnivora,Felidae,Caracal,RO,ZA,,,1,trophies,,P,W
+2015,II,Caracal caracal,Mammalia,Carnivora,Felidae,Caracal,SE,ZA,,,1,trophies,,P,W
+2015,II,Caracal caracal,Mammalia,Carnivora,Felidae,Caracal,US,ZA,,,2,bones,,P,W
+2015,II,Caracal caracal,Mammalia,Carnivora,Felidae,Caracal,US,ZA,,,7,skins,,P,W
+2015,II,Caracal caracal,Mammalia,Carnivora,Felidae,Caracal,US,ZA,,7,4,trophies,,P,W
+2015,II,Felis silvestris,Mammalia,Carnivora,Felidae,Felis,ES,ZA,,1,1,trophies,,P,W
+2015,II,Felis silvestris,Mammalia,Carnivora,Felidae,Felis,US,ZA,,,1,trophies,,P,W
+2015,II,Leptailurus serval,Mammalia,Carnivora,Felidae,Leptailurus,AU,ZA,,1,,bodies,,P,W
+2015,II,Leptailurus serval,Mammalia,Carnivora,Felidae,Leptailurus,AU,ZA,,,1,trophies,,P,W
+2015,II,Leptailurus serval,Mammalia,Carnivora,Felidae,Leptailurus,ES,ZA,,1,2,trophies,,P,W
+2015,II,Leptailurus serval,Mammalia,Carnivora,Felidae,Leptailurus,IT,ZA,,,1,trophies,,P,W
+2015,II,Leptailurus serval,Mammalia,Carnivora,Felidae,Leptailurus,US,ZA,,,1,skins,,P,W
+2015,II,Leptailurus serval,Mammalia,Carnivora,Felidae,Leptailurus,US,ZA,,1,,skulls,,P,W
+2015,II,Leptailurus serval,Mammalia,Carnivora,Felidae,Leptailurus,US,ZA,,2,2,trophies,,P,W
+2015,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,AE,ZA,BW,,1,skins,,P,W
+2015,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,AT,ZA,,1,,skins,,P,W
+2015,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,AT,ZA,,1,,skulls,,P,W
+2015,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,AT,ZA,,2,,trophies,,P,W
+2015,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,AU,ZA,ZW,,2,skins,,P,W
+2015,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,AZ,ZA,BW,,1,trophies,,P,W
+2015,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,BE,ZA,,1,,bodies,,P,W
+2015,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,BE,ZA,,1,,bones,,P,W
+2015,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,BE,ZA,,1,,skeletons,,P,W
+2015,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,BE,ZA,,1,,skulls,,P,W
+2015,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,BR,ZA,BW,,1,skins,,P,W
+2015,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,CN,ZA,BW,,2,trophies,,P,W
+2015,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,CN,ZA,,1,,trophies,,P,W
+2015,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,FR,ZA,MZ,1,,trophies,,P,W
+2015,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,FR,ZA,,1,,trophies,,P,W
+2015,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,IR,ZA,BW,,4,trophies,,P,W
+2015,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,RU,ZA,BW,,3,trophies,,P,W
+2015,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,SG,ZA,BW,1,,skins,,P,W
+2015,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,SG,ZA,BW,,1,trophies,,P,W
+2015,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,TH,ZA,,1,,leather products (large),,P,W
+2015,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,TR,ZA,BW,,3,trophies,,P,W
+2015,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,TW,ZA,,,1,skins,,P,W
+2015,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,US,ZA,BW,1,,skins,,P,W
+2015,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,US,ZA,BW,,2,trophies,,P,W
+2015,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,US,ZA,,2,,skulls,,P,W
+2015,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,US,ZA,,7,,trophies,,P,W
+2015,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,ZM,ZA,BW,,1,trophies,,P,W
+2015,II,Galago senegalensis,Mammalia,Primates,Galagidae,Galago,FR,ZA,,,1,trophies,,P,W
+2015,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,AU,ZA,ZM,,1,tusks,,P,W
+2015,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,FR,ZA,,1,1,skulls,,P,W
+2015,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,FR,ZA,,1,1,teeth,,P,W
+2015,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,KZ,ZA,ZW,1,,skin pieces,,P,W
+2015,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,PH,ZA,,4,,feet,,P,W
+2015,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,PH,ZA,,1,,skulls,,P,W
+2015,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,PH,ZA,,1,,trophies,,P,W
+2015,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,PH,ZA,,12,,tusks,,P,W
+2015,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,RO,ZA,,,8,tusks,,P,W
+2015,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,US,ZA,ZM,1,,ivory carvings,,P,W
+2015,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,US,ZA,ZM,,4,tusks,,P,W
+2015,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,US,ZA,,,1,leather products (large),,P,W
+2015,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,US,ZA,,,13,leather products (small),,P,W
+2015,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,US,ZA,,,1,skulls,,P,W
+2015,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,US,ZA,,1,,trophies,,P,W
+2015,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,US,ZA,,,1,tusks,,P,W
+2015,II,Aloe ferox,,Liliales,Liliaceae,Aloe,DE,ZA,,11.374,,derivatives,kg,P,W
+2015,II,Aloe ferox,,Liliales,Liliaceae,Aloe,DE,ZA,,2.268,,extract,kg,P,W
+2015,II,Malayopython reticulatus,Reptilia,Serpentes,Pythonidae,Malayopython,AT,ZA,ID,,1,leather products (small),,P,W
+2015,II,Malayopython reticulatus,Reptilia,Serpentes,Pythonidae,Malayopython,DE,ZA,ID,,2,leather products (small),,P,W
+2015,II,Malayopython reticulatus,Reptilia,Serpentes,Pythonidae,Malayopython,FR,ZA,ID,,1,leather products (small),,P,W
+2015,II,Malayopython reticulatus,Reptilia,Serpentes,Pythonidae,Malayopython,MC,ZA,ID,,1,leather products (small),,P,W
+2015,II,Malayopython reticulatus,Reptilia,Serpentes,Pythonidae,Malayopython,PL,ZA,ID,,1,leather products (small),,P,W
+2015,II,Malayopython reticulatus,Reptilia,Serpentes,Pythonidae,Malayopython,US,ZA,ID,,1,leather products (small),,P,W
+2015,II,Malayopython reticulatus,Reptilia,Serpentes,Pythonidae,Malayopython,US,ZA,SG,,2,leather products (small),,P,W
+2015,II,Python bivittatus,Reptilia,Serpentes,Pythonidae,Python,DE,ZA,ID,,1,leather products (small),,P,W
+2015,II,Python sebae,Reptilia,Serpentes,Pythonidae,Python,CN,ZA,SN,,1,skins,,P,W
+2015,II,Python sebae,Reptilia,Serpentes,Pythonidae,Python,RO,ZA,XX,,1,skins,,P,W
+2015,II,Ceratotherium simum,Mammalia,Perissodactyla,Rhinocerotidae,Ceratotherium,US,ZA,,,2,trophies,,P,W
+2015,II,Ceratotherium simum simum,Mammalia,Perissodactyla,Rhinocerotidae,Ceratotherium,PH,ZA,,2,,horns,,P,W
+2015,II,Ceratotherium simum simum,Mammalia,Perissodactyla,Rhinocerotidae,Ceratotherium,PH,ZA,,1,,trophies,,P,W
+2015,II,Ceratotherium simum simum,Mammalia,Perissodactyla,Rhinocerotidae,Ceratotherium,RU,ZA,,,1,horns,,P,W
+2015,II,Bubo africanus,Aves,Strigiformes,Strigidae,Bubo,US,ZA,,,1,trophies,,P,W
+2015,III,Proteles cristata,Mammalia,Carnivora,Hyaenidae,Proteles,CA,ZA,,,1,skulls,,P,W
+2015,III,Proteles cristata,Mammalia,Carnivora,Hyaenidae,Proteles,US,ZA,,1,2,trophies,,P,W
+2015,III,Mellivora capensis,Mammalia,Carnivora,Mustelidae,Mellivora,IT,ZA,,,1,trophies,,P,W
+2015,III,Mellivora capensis,Mammalia,Carnivora,Mustelidae,Mellivora,RU,ZA,,,1,trophies,,P,W
+2015,III,Mellivora capensis,Mammalia,Carnivora,Mustelidae,Mellivora,US,ZA,,1,2,trophies,,P,W
+2015,III,Civettictis civetta,Mammalia,Carnivora,Viverridae,Civettictis,ES,ZA,,1,1,skins,,P,W
+2015,III,Civettictis civetta,Mammalia,Carnivora,Viverridae,Civettictis,ES,ZA,,1,4,trophies,,P,W
+2015,III,Civettictis civetta,Mammalia,Carnivora,Viverridae,Civettictis,PT,ZA,,,1,skulls,,P,W
+2015,III,Civettictis civetta,Mammalia,Carnivora,Viverridae,Civettictis,PT,ZA,,,1,trophies,,P,W
+2015,III,Civettictis civetta,Mammalia,Carnivora,Viverridae,Civettictis,US,ZA,,1,1,skulls,,P,W
+2015,III,Civettictis civetta,Mammalia,Carnivora,Viverridae,Civettictis,US,ZA,,3,8,trophies,,P,W
+2016,I,Oryx dammah,Mammalia,Artiodactyla,Bovidae,Oryx,SA,ZA,XX,1,,skins,,P,W
+2016,I,Oryx dammah,Mammalia,Artiodactyla,Bovidae,Oryx,SA,ZA,,1,,bodies,,P,
+2016,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,AU,ZA,,,1,tusks,,P,W
+2016,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,BE,ZA,,8,8,tusks,,P,W
+2016,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,BR,ZA,BW,,10,skins,,P,W
+2016,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CN,ZA,,,4,feet,,P,W
+2016,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,DE,ZA,,,1,ears,,P,W
+2016,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,GB,ZA,,1,,tusks,,P,W
+2016,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,NA,ZA,,,1,trophies,,P,W
+2016,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,ZA,,,2,feet,,P,W
+2016,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,ZA,,,2,hair,,P,W
+2016,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,ZA,,,1,leather products (large),,P,W
+2016,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,ZA,,,6,skins,,P,W
+2016,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,ZA,,,1,trophies,,P,W
+2016,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,ZA,,,1,tusks,,P,W
+2016,I,Panthera pardus,Mammalia,Carnivora,Felidae,Panthera,BE,ZA,,,1,skins,,P,W
+2016,I,Panthera pardus,Mammalia,Carnivora,Felidae,Panthera,FR,ZA,MZ,5,,trophies,,P,W
+2016,I,Panthera pardus,Mammalia,Carnivora,Felidae,Panthera,FR,ZA,,1,,trophies,,P,W
+2016,I,Panthera pardus,Mammalia,Carnivora,Felidae,Panthera,NA,ZA,,1,,bodies,,P,W
+2016,I,Panthera pardus,Mammalia,Carnivora,Felidae,Panthera,PT,ZA,TZ,1,,trophies,,P,W
+2016,I,Panthera tigris,Mammalia,Carnivora,Felidae,Panthera,CN,ZA,,1,,rug,,P,W
+2016,I,Dalbergia nigra,,Fabales,Leguminosae,Dalbergia,US,ZA,BR,1,,wood product,,P,W
+2016,I,Ceratotherium simum simum,Mammalia,Perissodactyla,Rhinocerotidae,Ceratotherium,BE,ZA,,5,5,horns,,P,W
+2016,II,Accipiter badius,Aves,Falconiformes,Accipitridae,Accipiter,GB,ZA,,,43,eggshell,,P,W
+2016,II,Accipiter melanoleucus,Aves,Falconiformes,Accipitridae,Accipiter,GB,ZA,,,37,eggshell,,P,W
+2016,II,Accipiter minullus,Aves,Falconiformes,Accipitridae,Accipiter,GB,ZA,,,32,eggshell,,P,W
+2016,II,Accipiter ovampensis,Aves,Falconiformes,Accipitridae,Accipiter,GB,ZA,,,64,eggshell,,P,W
+2016,II,Accipiter rufiventris,Aves,Falconiformes,Accipitridae,Accipiter,GB,ZA,,,67,eggshell,,P,W
+2016,II,Accipiter tachiro,Aves,Falconiformes,Accipitridae,Accipiter,GB,ZA,,,42,eggshell,,P,W
+2016,II,Aquila rapax,Aves,Falconiformes,Accipitridae,Aquila,GB,ZA,,,24,eggshell,,P,W
+2016,II,Aquila verreauxii,Aves,Falconiformes,Accipitridae,Aquila,CN,ZA,,,2,trophies,,P,W
+2016,II,Aquila verreauxii,Aves,Falconiformes,Accipitridae,Aquila,GB,ZA,,,24,eggshell,,P,W
+2016,II,Aviceda cuculoides,Aves,Falconiformes,Accipitridae,Aviceda,GB,ZA,,,40,eggshell,,P,W
+2016,II,Buteo augur,Aves,Falconiformes,Accipitridae,Buteo,GB,ZA,,,24,eggshell,,P,W
+2016,II,Buteo oreophilus,Aves,Falconiformes,Accipitridae,Buteo,GB,ZA,,,24,eggshell,,P,W
+2016,II,Buteo rufofuscus,Aves,Falconiformes,Accipitridae,Buteo,GB,ZA,,,24,eggshell,,P,W
+2016,II,Circaetus cinerascens,Aves,Falconiformes,Accipitridae,Circaetus,GB,ZA,XX,,6,eggshell,,P,W
+2016,II,Circaetus cinereus,Aves,Falconiformes,Accipitridae,Circaetus,GB,ZA,,,12,eggshell,,P,W
+2016,II,Circaetus fasciolatus,Aves,Falconiformes,Accipitridae,Circaetus,GB,ZA,,,6,eggshell,,P,W
+2016,II,Circaetus pectoralis,Aves,Falconiformes,Accipitridae,Circaetus,GB,ZA,,,12,eggshell,,P,W
+2016,II,Circus maurus,Aves,Falconiformes,Accipitridae,Circus,GB,ZA,,,41,eggshell,,P,W
+2016,II,Circus ranivorus,Aves,Falconiformes,Accipitridae,Circus,GB,ZA,,,42,eggshell,,P,W
+2016,II,Elanus caeruleus,Aves,Falconiformes,Accipitridae,Elanus,GB,ZA,,,64,eggshell,,P,W
+2016,II,Gypaetus barbatus,Aves,Falconiformes,Accipitridae,Gypaetus,GB,ZA,,,17,eggshell,,P,W
+2016,II,Gypohierax angolensis,Aves,Falconiformes,Accipitridae,Gypohierax,GB,ZA,,,12,eggshell,,P,W
+2016,II,Gyps africanus,Aves,Falconiformes,Accipitridae,Gyps,GB,ZA,,,12,eggshell,,P,W
+2016,II,Gyps coprotheres,Aves,Falconiformes,Accipitridae,Gyps,GB,ZA,,,12,eggshell,,P,W
+2016,II,Haliaeetus vocifer,Aves,Falconiformes,Accipitridae,Haliaeetus,GB,ZA,,,25,eggshell,,P,W
+2016,II,Hieraaetus ayresii,Aves,Falconiformes,Accipitridae,Hieraaetus,GB,ZA,,,12,eggshell,,P,W
+2016,II,Hieraaetus pennatus,Aves,Falconiformes,Accipitridae,Hieraaetus,GB,ZA,,,24,eggshell,,P,W
+2016,II,Hieraaetus spilogaster,Aves,Falconiformes,Accipitridae,Hieraaetus,GB,ZA,,,23,eggshell,,P,W
+2016,II,Hieraaetus wahlbergi,Aves,Falconiformes,Accipitridae,Hieraaetus,GB,ZA,,,18,eggshell,,P,W
+2016,II,Kaupifalco monogrammicus,Aves,Falconiformes,Accipitridae,Kaupifalco,GB,ZA,,,36,eggshell,,P,W
+2016,II,Lophaetus occipitalis,Aves,Falconiformes,Accipitridae,Lophaetus,GB,ZA,,,23,eggshell,,P,W
+2016,II,Macheiramphus alcinus,Aves,Falconiformes,Accipitridae,Macheiramphus,GB,ZA,,,12,eggshell,,P,W
+2016,II,Melierax canorus,Aves,Falconiformes,Accipitridae,Melierax,GB,ZA,,,31,eggshell,,P,W
+2016,II,Melierax metabates,Aves,Falconiformes,Accipitridae,Melierax,GB,ZA,,,28,eggshell,,P,W
+2016,II,Micronisus gabar,Aves,Falconiformes,Accipitridae,Micronisus,GB,ZA,,,44,eggshell,,P,W
+2016,II,Milvus spp.,Aves,Falconiformes,Accipitridae,Milvus,GB,ZA,,,30,eggshell,,P,W
+2016,II,Necrosyrtes monachus,Aves,Falconiformes,Accipitridae,Necrosyrtes,GB,ZA,,,12,eggshell,,P,W
+2016,II,Polemaetus bellicosus,Aves,Falconiformes,Accipitridae,Polemaetus,GB,ZA,,,12,eggshell,,P,W
+2016,II,Polyboroides typus,Aves,Falconiformes,Accipitridae,Polyboroides,GB,ZA,,,31,eggshell,,P,W
+2016,II,Stephanoaetus coronatus,Aves,Falconiformes,Accipitridae,Stephanoaetus,GB,ZA,,,24,eggshell,,P,W
+2016,II,Terathopius ecaudatus,Aves,Falconiformes,Accipitridae,Terathopius,GB,ZA,,,12,eggshell,,P,W
+2016,II,Torgos tracheliotus,Aves,Falconiformes,Accipitridae,Torgos,GB,ZA,,,12,eggshell,,P,W
+2016,II,Trigonoceps occipitalis,Aves,Falconiformes,Accipitridae,Trigonoceps,GB,ZA,,,12,eggshell,,P,W
+2016,II,Alligator mississippiensis,Reptilia,Crocodylia,Alligatoridae,Alligator,CH,ZA,US,,1,leather products (small),,P,W
+2016,II,Alligator mississippiensis,Reptilia,Crocodylia,Alligatoridae,Alligator,MY,ZA,US,,3,leather products (small),,P,W
+2016,II,Sarkidiornis melanotos,Aves,Anseriformes,Anatidae,Sarkidiornis,US,ZA,,2,2,trophies,,P,W
+2016,II,Philantomba monticola,Mammalia,Artiodactyla,Bovidae,Philantomba,BE,ZA,,,2,trophies,,P,W
+2016,II,Philantomba monticola,Mammalia,Artiodactyla,Bovidae,Philantomba,US,ZA,,,1,live,,P,W
+2016,II,Canis lupus,Mammalia,Carnivora,Canidae,Canis,DE,ZA,XX,,1,derivatives,,P,U
+2016,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,AU,ZA,,,1,skulls,,P,W
+2016,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,CZ,ZA,,1,,skins,,P,W
+2016,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,GB,ZA,,,2,trophies,,P,W
+2016,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,JP,ZA,,,2,skulls,,P,W
+2016,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,NO,ZA,,1,,skulls,,P,W
+2016,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,PL,ZA,,1,1,skulls,,P,W
+2016,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,SE,ZA,,,1,skulls,,P,W
+2016,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,ZA,,,7,skins,,P,W
+2016,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,ZA,,,12,skulls,,P,W
+2016,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,ZA,,3,5,trophies,,P,W
+2016,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,CA,ZA,,,11,skulls,,P,W
+2016,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,DE,ZA,,,1,skulls,,P,W
+2016,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,DE,ZA,,1,1,trophies,,P,W
+2016,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,ES,ZA,,1,,trophies,,P,W
+2016,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,FR,ZA,,,3,skulls,,P,W
+2016,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,NL,ZA,,,1,trophies,,P,W
+2016,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,NZ,ZA,,,2,skulls,,P,W
+2016,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,PL,ZA,,1,1,skulls,,P,W
+2016,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,RO,ZA,,,1,skulls,,P,W
+2016,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,TH,ZA,,1,,bodies,,P,W
+2016,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,US,ZA,,2,1,skins,,P,W
+2016,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,US,ZA,,1,8,skulls,,P,W
+2016,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,US,ZA,,2,3,trophies,,P,W
+2016,II,Ciconia nigra,Aves,Ciconiiformes,Ciconiidae,Ciconia,GB,ZA,,,4,eggshell,,P,W
+2016,II,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,AT,ZA,,1,,skins,,P,W
+2016,II,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,BE,ZA,,,54,leather products (small),,P,W
+2016,II,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,FR,ZA,ZW,,1,trophies,,P,W
+2016,II,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,US,ZA,,,2,skins,,P,W
+2016,II,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,US,ZA,,,1,skulls,,P,W
+2016,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,AE,ZA,,,9,leather products (large),,P,W
+2016,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,AE,ZA,,,4,leather products (small),,P,W
+2016,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,BE,ZA,,,4,feet,,P,W
+2016,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,BE,ZA,,,2,leather products (large),,P,W
+2016,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,BW,ZA,,1,,trophies,,P,W
+2016,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CN,ZA,,10,,leather products (large),,P,W
+2016,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CN,ZA,,4,,leather products (small),,P,W
+2016,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,DE,ZA,,1,,ears,,P,W
+2016,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,FR,ZA,BW,6.96,,trophies,,P,W
+2016,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,FR,ZA,,2,,trophies,,P,W
+2016,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,GB,ZA,,,1,piano keys,,P,W
+2016,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,GB,ZA,,,1,tusks,,P,W
+2016,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,NA,ZA,,1,,trophies,,P,W
+2016,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,NL,ZA,,,3,hair,,P,W
+2016,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,PT,ZA,,1,,leather products (small),,P,W
+2016,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,ZA,,,1,bones,,P,W
+2016,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,ZA,,,9,derivatives,,P,W
+2016,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,ZA,,4,6,feet,,P,W
+2016,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,ZA,,1,,leather products (large),,P,W
+2016,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,ZA,,2,,tusks,,P,W
+2016,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,AU,ZA,NA,1,1,skins,,P,W
+2016,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,AU,ZA,NA,1,,trophies,,P,W
+2016,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,BE,ZA,NA,9,,skins,,P,W
+2016,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,BE,ZA,,,9,skins,,P,W
+2016,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,CN,ZA,NA,,3,skins,,P,W
+2016,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,DE,ZA,NA,,1,skins,,P,W
+2016,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,DE,ZA,,,1,skins,,P,W
+2016,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,ES,ZA,NA,,1,skins,,P,W
+2016,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,PL,ZA,NA,,1,skins,,P,W
+2016,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,PT,ZA,,3,,leather products (large),,P,W
+2016,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,TH,ZA,NA,,1,leather products (large),,P,W
+2016,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,TW,ZA,NA,,2,skins,,P,W
+2016,II,Falco ardosiaceus,Aves,Falconiformes,Falconidae,Falco,GB,ZA,XX,,26,eggshell,,P,W
+2016,II,Falco biarmicus,Aves,Falconiformes,Falconidae,Falco,GB,ZA,,,88,eggshell,,P,W
+2016,II,Falco chicquera,Aves,Falconiformes,Falconidae,Falco,GB,ZA,,,60,eggshell,,P,W
+2016,II,Falco dickinsoni,Aves,Falconiformes,Falconidae,Falco,GB,ZA,,,48,eggshell,,P,W
+2016,II,Falco fasciinucha,Aves,Falconiformes,Falconidae,Falco,GB,ZA,,,27,eggshell,,P,W
+2016,II,Falco rupicoloides,Aves,Falconiformes,Falconidae,Falco,GB,ZA,,,65,eggshell,,P,W
+2016,II,Falco tinnunculus,Aves,Falconiformes,Falconidae,Falco,GB,ZA,,,119,eggshell,,P,W
+2016,II,Polihierax semitorquatus,Aves,Falconiformes,Falconidae,Polihierax,GB,ZA,,,36,eggshell,,P,W
+2016,II,Caracal caracal,Mammalia,Carnivora,Felidae,Caracal,CA,ZA,,,100,hair,,P,W
+2016,II,Caracal caracal,Mammalia,Carnivora,Felidae,Caracal,ES,ZA,,1,,trophies,,P,W
+2016,II,Caracal caracal,Mammalia,Carnivora,Felidae,Caracal,JP,ZA,,2,1,skulls,,P,W
+2016,II,Caracal caracal,Mammalia,Carnivora,Felidae,Caracal,NA,ZA,,,91,hair,,P,W
+2016,II,Caracal caracal,Mammalia,Carnivora,Felidae,Caracal,US,ZA,,,1,skulls,,P,W
+2016,II,Caracal caracal,Mammalia,Carnivora,Felidae,Caracal,US,ZA,,,1,trophies,,P,W
+2016,II,Felis silvestris,Mammalia,Carnivora,Felidae,Felis,GB,ZA,,,1,trophies,,P,W
+2016,II,Felis silvestris,Mammalia,Carnivora,Felidae,Felis,JP,ZA,,1,,skulls,,P,W
+2016,II,Felis silvestris,Mammalia,Carnivora,Felidae,Felis,RU,ZA,,,1,skins,,P,W
+2016,II,Leptailurus serval,Mammalia,Carnivora,Felidae,Leptailurus,CA,ZA,,,3,trophies,,P,W
+2016,II,Leptailurus serval,Mammalia,Carnivora,Felidae,Leptailurus,DK,ZA,,,1,trophies,,P,W
+2016,II,Leptailurus serval,Mammalia,Carnivora,Felidae,Leptailurus,ES,ZA,,1,1,live,,P,W
+2016,II,Leptailurus serval,Mammalia,Carnivora,Felidae,Leptailurus,RU,ZA,,,1,skins,,P,W
+2016,II,Leptailurus serval,Mammalia,Carnivora,Felidae,Leptailurus,US,ZA,,,2,trophies,,P,W
+2016,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,AE,ZA,BW,,1,trophies,,P,W
+2016,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,AE,ZA,,1,,skulls,,P,W
+2016,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,AZ,ZA,BW,,1,trophies,,P,W
+2016,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,BE,ZA,,,12,bones,,P,W
+2016,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,BE,ZA,,1,1,skulls,,P,W
+2016,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,BE,ZA,,1,3,trophies,,P,W
+2016,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,CH,ZA,ZM,1,,trophies,,P,W
+2016,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,CN,ZA,,1,,rug,,P,W
+2016,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,CN,ZA,,,1,trophies,,P,W
+2016,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,IR,ZA,BW,,3,trophies,,P,W
+2016,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,NG,ZA,BW,,1,trophies,,P,W
+2016,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,RU,ZA,BW,,1,trophies,,P,W
+2016,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,TH,ZA,BW,,1,trophies,,P,W
+2016,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,TH,ZA,,1,,bodies,,P,W
+2016,II,Anthropoides paradiseus,Aves,Gruiformes,Gruidae,Anthropoides,GB,ZA,,,2,eggshell,,P,W
+2016,II,Balearica regulorum,Aves,Gruiformes,Gruidae,Balearica,GB,ZA,,,3,eggshell,,P,W
+2016,II,Balearica regulorum,Aves,Gruiformes,Gruidae,Balearica,US,ZA,,,2,trophies,,P,W
+2016,II,Bugeranus carunculatus,Aves,Gruiformes,Gruidae,Bugeranus,GB,ZA,,,2,eggshell,,P,W
+2016,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,BE,ZA,,,1,leather products (large),,P,W
+2016,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,BE,ZA,,,7,teeth,,P,W
+2016,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,BE,ZA,,,13,tusks,,P,W
+2016,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,CA,ZA,,,1,teeth,,P,W
+2016,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,FR,ZA,,1,,skulls,,P,W
+2016,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,SG,ZA,,1,,specimens,,P,W
+2016,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,SG,ZA,,1,,trophies,,P,W
+2016,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,TH,ZA,,2,,bodies,,P,W
+2016,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,US,ZA,MW,,4,tusks,,P,W
+2016,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,US,ZA,,,1,feet,,P,W
+2016,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,US,ZA,,2,,leather products (large),,P,W
+2016,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,US,ZA,,,1,leather products (small),,P,W
+2016,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,US,ZA,,1,1,skins,,P,W
+2016,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,US,ZA,,,1,teeth,,P,W
+2016,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,US,ZA,,,2,trophies,,P,W
+2016,II,Aloe ferox,,Liliales,Liliaceae,Aloe,AE,ZA,,,1.89,derivatives,kg,P,W
+2016,II,Aloe ferox,,Liliales,Liliaceae,Aloe,AT,ZA,,,212.064,derivatives,kg,P,W
+2016,II,Aloe ferox,,Liliales,Liliaceae,Aloe,AU,ZA,,,56.100,derivatives,kg,P,W
+2016,II,Aloe ferox,,Liliales,Liliaceae,Aloe,BE,ZA,,,632,derivatives,g,P,W
+2016,II,Aloe ferox,,Liliales,Liliaceae,Aloe,BE,ZA,,,7.646,derivatives,kg,P,W
+2016,II,Aloe ferox,,Liliales,Liliaceae,Aloe,BR,ZA,,,868,derivatives,g,P,W
+2016,II,Aloe ferox,,Liliales,Liliaceae,Aloe,CA,ZA,,,868,derivatives,g,P,W
+2016,II,Aloe ferox,,Liliales,Liliaceae,Aloe,CA,ZA,,,2.748,derivatives,kg,P,W
+2016,II,Aloe ferox,,Liliales,Liliaceae,Aloe,CH,ZA,,,92.670,derivatives,kg,P,W
+2016,II,Aloe ferox,,Liliales,Liliaceae,Aloe,CH,ZA,,5000,,extract,g,P,W
+2016,II,Aloe ferox,,Liliales,Liliaceae,Aloe,CH,ZA,,1993,,extract,kg,P,W
+2016,II,Aloe ferox,,Liliales,Liliaceae,Aloe,CN,ZA,,,816,derivatives,g,P,W
+2016,II,Aloe ferox,,Liliales,Liliaceae,Aloe,CN,ZA,,,11.322,derivatives,kg,P,W
+2016,II,Aloe ferox,,Liliales,Liliaceae,Aloe,DE,ZA,,600,4282,derivatives,g,P,W
+2016,II,Aloe ferox,,Liliales,Liliaceae,Aloe,DE,ZA,,17.576,27.022,derivatives,kg,P,W
+2016,II,Aloe ferox,,Liliales,Liliaceae,Aloe,DE,ZA,,736,,extract,g,P,W
+2016,II,Aloe ferox,,Liliales,Liliaceae,Aloe,DE,ZA,,6.636,,extract,kg,P,W
+2016,II,Aloe ferox,,Liliales,Liliaceae,Aloe,DE,ZA,,,1,powder,kg,P,W
+2016,II,Aloe ferox,,Liliales,Liliaceae,Aloe,DK,ZA,,,848,derivatives,g,P,W
+2016,II,Aloe ferox,,Liliales,Liliaceae,Aloe,DK,ZA,,,1.352,derivatives,kg,P,W
+2016,II,Aloe ferox,,Liliales,Liliaceae,Aloe,ES,ZA,,,2.296,derivatives,kg,P,W
+2016,II,Aloe ferox,,Liliales,Liliaceae,Aloe,FR,ZA,,,7.716,derivatives,kg,P,W
+2016,II,Aloe ferox,,Liliales,Liliaceae,Aloe,GB,ZA,,,7558,derivatives,g,P,W
+2016,II,Aloe ferox,,Liliales,Liliaceae,Aloe,GB,ZA,,,45.921,derivatives,kg,P,W
+2016,II,Aloe ferox,,Liliales,Liliaceae,Aloe,GH,ZA,,,1000,powder,kg,P,W
+2016,II,Aloe ferox,,Liliales,Liliaceae,Aloe,GR,ZA,,,676,derivatives,g,P,W
+2016,II,Aloe ferox,,Liliales,Liliaceae,Aloe,IE,ZA,,,920,derivatives,g,P,W
+2016,II,Aloe ferox,,Liliales,Liliaceae,Aloe,IE,ZA,,,4.456,derivatives,kg,P,W
+2016,II,Aloe ferox,,Liliales,Liliaceae,Aloe,IL,ZA,,,3.158,derivatives,kg,P,W
+2016,II,Aloe ferox,,Liliales,Liliaceae,Aloe,IN,ZA,,,3648,derivatives,g,P,W
+2016,II,Aloe ferox,,Liliales,Liliaceae,Aloe,IN,ZA,,,5.94,derivatives,kg,P,W
+2016,II,Aloe ferox,,Liliales,Liliaceae,Aloe,IT,ZA,,,1474,derivatives,g,P,W
+2016,II,Aloe ferox,,Liliales,Liliaceae,Aloe,IT,ZA,,,1.008,derivatives,kg,P,W
+2016,II,Aloe ferox,,Liliales,Liliaceae,Aloe,IT,ZA,,,5000,extract,kg,P,W
+2016,II,Aloe ferox,,Liliales,Liliaceae,Aloe,LU,ZA,,,2.644,derivatives,kg,P,W
+2016,II,Aloe ferox,,Liliales,Liliaceae,Aloe,MX,ZA,,,8.006,extract,kg,P,W
+2016,II,Aloe ferox,,Liliales,Liliaceae,Aloe,NL,ZA,,,2374,derivatives,g,P,W
+2016,II,Aloe ferox,,Liliales,Liliaceae,Aloe,NL,ZA,,,576.906,derivatives,kg,P,W
+2016,II,Aloe ferox,,Liliales,Liliaceae,Aloe,NO,ZA,,718,,cosmetics,g,P,W
+2016,II,Aloe ferox,,Liliales,Liliaceae,Aloe,NZ,ZA,,,7.5,derivatives,kg,P,W
+2016,II,Aloe ferox,,Liliales,Liliaceae,Aloe,PH,ZA,,,900,derivatives,g,P,W
+2016,II,Aloe ferox,,Liliales,Liliaceae,Aloe,PH,ZA,,,3.008,derivatives,kg,P,W
+2016,II,Aloe ferox,,Liliales,Liliaceae,Aloe,QA,ZA,,,4.198,derivatives,kg,P,W
+2016,II,Aloe ferox,,Liliales,Liliaceae,Aloe,SE,ZA,,,2092,derivatives,g,P,W
+2016,II,Aloe ferox,,Liliales,Liliaceae,Aloe,SE,ZA,,,3.63,derivatives,kg,P,W
+2016,II,Aloe ferox,,Liliales,Liliaceae,Aloe,SG,ZA,,,1.628,derivatives,kg,P,W
+2016,II,Aloe ferox,,Liliales,Liliaceae,Aloe,US,ZA,,,15328,derivatives,g,P,W
+2016,II,Aloe ferox,,Liliales,Liliaceae,Aloe,US,ZA,,,67.785,derivatives,kg,P,W
+2016,II,Tauraco porphyreolophus,Aves,Cuculiformes,Musophagidae,Tauraco,GB,ZA,,,2,eggshell,,P,W
+2016,II,Tauraco schalowi,Aves,Cuculiformes,Musophagidae,Tauraco,GB,ZA,,,2,eggshell,,P,W
+2016,II,Tridactyle bicaudata,,Orchidales,Orchidaceae,Tridactyle,CH,ZA,,,9,live,,P,
+2016,II,Afrotis afraoides,Aves,Gruiformes,Otididae,Afrotis,GB,ZA,,,1,eggshell,,P,W
+2016,II,Ardeotis kori,Aves,Gruiformes,Otididae,Ardeotis,GB,ZA,,,2,eggshell,,P,W
+2016,II,Eupodotis senegalensis,Aves,Gruiformes,Otididae,Eupodotis,GB,ZA,,,2,eggshell,,P,W
+2016,II,Eupodotis vigorsii,Aves,Gruiformes,Otididae,Eupodotis,GB,ZA,,,1,eggshell,,P,W
+2016,II,Lissotis melanogaster,Aves,Gruiformes,Otididae,Lissotis,GB,ZA,,,2,eggshell,,P,W
+2016,II,Lophotis ruficrista,Aves,Gruiformes,Otididae,Lophotis,GB,ZA,,,2,eggshell,,P,W
+2016,II,Neotis denhami,Aves,Gruiformes,Otididae,Neotis,GB,ZA,,,1,eggshell,,P,W
+2016,II,Phoenicopterus ruber,Aves,Ciconiiformes,Phoenicopteridae,Phoenicopterus,GB,ZA,,,1,eggshell,,P,W
+2016,II,Poicephalus meyeri,Aves,Psittaciformes,Psittacidae,Poicephalus,GB,ZA,,,4,eggshell,,P,W
+2016,II,Psittacus erithacus,Aves,Psittaciformes,Psittacidae,Psittacus,MW,ZA,,2,,live,,P,W
+2016,II,Psittacus erithacus,Aves,Psittaciformes,Psittacidae,Psittacus,NA,ZA,XX,2,,live,,P,W
+2016,II,Malayopython reticulatus,Reptilia,Serpentes,Pythonidae,Malayopython,GB,ZA,ID,,1,leather products (small),,P,W
+2016,II,Malayopython reticulatus,Reptilia,Serpentes,Pythonidae,Malayopython,US,ZA,SG,,1,leather products (small),,P,W
+2016,II,Ceratotherium simum,Mammalia,Perissodactyla,Rhinocerotidae,Ceratotherium,KZ,ZA,,2,,trophies,,P,W
+2016,II,Ceratotherium simum simum,Mammalia,Perissodactyla,Rhinocerotidae,Ceratotherium,ES,ZA,,,2,feet,,P,W
+2016,II,Ceratotherium simum simum,Mammalia,Perissodactyla,Rhinocerotidae,Ceratotherium,SG,ZA,,2,,feet,,P,W
+2016,II,Ceratotherium simum simum,Mammalia,Perissodactyla,Rhinocerotidae,Ceratotherium,SG,ZA,,2,,horns,,P,W
+2016,II,Ceratotherium simum simum,Mammalia,Perissodactyla,Rhinocerotidae,Ceratotherium,SG,ZA,,1,,skin pieces,,P,W
+2016,II,Ceratotherium simum simum,Mammalia,Perissodactyla,Rhinocerotidae,Ceratotherium,SG,ZA,,1,,skulls,,P,W
+2016,II,Ceratotherium simum simum,Mammalia,Perissodactyla,Rhinocerotidae,Ceratotherium,SG,ZA,,1,,specimens,,P,W
+2016,II,Ceratotherium simum simum,Mammalia,Perissodactyla,Rhinocerotidae,Ceratotherium,SG,ZA,,1,,trophies,,P,W
+2016,II,Spheniscus demersus,Aves,Sphenisciformes,Spheniscidae,Spheniscus,GB,ZA,,,2,eggshell,,P,W
+2016,II,Asio capensis,Aves,Strigiformes,Strigidae,Asio,GB,ZA,,,3,eggshell,,P,W
+2016,II,Bubo africanus,Aves,Strigiformes,Strigidae,Bubo,GB,ZA,,,3,eggshell,,P,W
+2016,II,Bubo capensis,Aves,Strigiformes,Strigidae,Bubo,GB,ZA,,,5,eggshell,,P,W
+2016,II,Bubo lacteus,Aves,Strigiformes,Strigidae,Bubo,GB,ZA,,,2,eggshell,,P,W
+2016,II,Bubo lacteus,Aves,Strigiformes,Strigidae,Bubo,NZ,ZA,,1,1,feathers,,P,W
+2016,II,Glaucidium capense,Aves,Strigiformes,Strigidae,Glaucidium,GB,ZA,,,3,eggshell,,P,W
+2016,II,Glaucidium perlatum,Aves,Strigiformes,Strigidae,Glaucidium,GB,ZA,,,3,eggshell,,P,W
+2016,II,Otus senegalensis,Aves,Strigiformes,Strigidae,Otus,GB,ZA,,,3,eggshell,,P,W
+2016,II,Ptilopsis granti,Aves,Strigiformes,Strigidae,Ptilopsis,GB,ZA,,,3,eggshell,,P,W
+2016,II,Scotopelia peli,Aves,Strigiformes,Strigidae,Scotopelia,GB,ZA,,,2,eggshell,,P,W
+2016,II,Strix woodfordii,Aves,Strigiformes,Strigidae,Strix,GB,ZA,,,2,eggshell,,P,W
+2016,II,Stigmochelys pardalis,Reptilia,Testudines,Testudinidae,Stigmochelys,FR,ZA,,,1,shells,,P,W
+2016,II,Testudo graeca,Reptilia,Testudines,Testudinidae,Testudo,JP,ZA,XX,2,,live,,P,W
+2016,II,Geronticus calvus,Aves,Ciconiiformes,Threskiornithidae,Geronticus,GB,ZA,,,3,eggshell,,P,W
+2016,II,Tyto alba,Aves,Strigiformes,Tytonidae,Tyto,GB,ZA,,,6,eggshell,,P,W
+2016,II,Tyto capensis,Aves,Strigiformes,Tytonidae,Tyto,GB,ZA,,,4,eggshell,,P,W
+2016,II,Ursus americanus,Mammalia,Carnivora,Ursidae,Ursus,TH,ZA,CA,,1,trophies,,P,W
+2016,II,Ursus americanus,Mammalia,Carnivora,Ursidae,Ursus,US,ZA,CA,,1,trophies,,P,W
+2016,II,Varanus salvator,Reptilia,Sauria,Varanidae,Varanus,AE,ZA,ID,,2,leather products (small),,P,W
+2016,III,Proteles cristata,Mammalia,Carnivora,Hyaenidae,Proteles,CA,ZA,,,2,skulls,,P,W
+2016,III,Proteles cristata,Mammalia,Carnivora,Hyaenidae,Proteles,JP,ZA,,1,1,skulls,,P,W
+2016,III,Proteles cristata,Mammalia,Carnivora,Hyaenidae,Proteles,US,ZA,,,3,trophies,,P,W
+2016,III,Civettictis civetta,Mammalia,Carnivora,Viverridae,Civettictis,ES,ZA,,1,,trophies,,P,W
+2016,III,Civettictis civetta,Mammalia,Carnivora,Viverridae,Civettictis,US,ZA,,1,1,skins,,P,W
+2016,III,Civettictis civetta,Mammalia,Carnivora,Viverridae,Civettictis,US,ZA,,1,,trophies,,P,W
+2017,I,Elephantidae spp.,Mammalia,Proboscidea,Elephantidae,,CN,ZA,,,1,ivory pieces,,P,W
+2017,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,AE,ZA,,4,,leather products (small),,P,W
+2017,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,AE,ZA,,9,,trophies,,P,W
+2017,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,BR,ZA,BW,20,,garments,,P,W
+2017,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,GB,ZA,CM,52,,piano keys,,P,W
+2017,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,ZA,,9,,derivatives,,P,W
+2017,I,Acinonyx jubatus,Mammalia,Carnivora,Felidae,Acinonyx,RW,ZA,,3,,bodies,,P,W
+2017,I,Panthera pardus,Mammalia,Carnivora,Felidae,Panthera,BE,ZA,,1,,garments,,P,W
+2017,I,Panthera pardus,Mammalia,Carnivora,Felidae,Panthera,FR,ZA,MZ,2,,trophies,,P,W
+2017,I,Psittacus erithacus,Aves,Psittaciformes,Psittacidae,Psittacus,DE,ZA,XX,,1,live,,P,W
+2017,I,Psittacus erithacus,Aves,Psittaciformes,Psittacidae,Psittacus,GB,ZA,XX,1,,live,,P,U
+2017,I,Psittacus erithacus,Aves,Psittaciformes,Psittacidae,Psittacus,NA,ZA,XX,1,,live,,P,W
+2017,II,Buteo rufofuscus,Aves,Falconiformes,Accipitridae,Buteo,CA,ZA,,,1,trophies,,P,W
+2017,II,Milvus migrans,Aves,Falconiformes,Accipitridae,Milvus,US,ZA,,,1,trophies,,P,W
+2017,II,Alligator mississippiensis,Reptilia,Crocodylia,Alligatoridae,Alligator,CH,ZA,US,,1,leather products (small),,P,W
+2017,II,Damaliscus pygargus pygargus,Mammalia,Artiodactyla,Bovidae,Damaliscus,AU,ZA,,,1,trophies,,P,W
+2017,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,DE,ZA,,1,,trophies,,P,W
+2017,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,NA,ZA,,10,,live,,P,W
+2017,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,US,ZA,,2,,horns,,P,W
+2017,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,US,ZA,,1,,trophies,,P,W
+2017,II,Philantomba monticola,Mammalia,Artiodactyla,Bovidae,Philantomba,BE,ZA,,2,,trophies,,P,W
+2017,II,Philantomba monticola,Mammalia,Artiodactyla,Bovidae,Philantomba,ES,ZA,,2,,trophies,,P,W
+2017,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,AE,ZA,,,5,skulls,,P,W
+2017,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,AU,ZA,,,2,bodies,,P,W
+2017,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,AU,ZA,,2,2,skulls,,P,W
+2017,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,AU,ZA,,2,,trophies,,P,W
+2017,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,CA,ZA,,,4,skulls,,P,W
+2017,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,CN,ZA,,,1,skulls,,P,W
+2017,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,DK,ZA,,1,1,trophies,,P,W
+2017,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,ES,ZA,,,1,skins,,P,W
+2017,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,ES,ZA,,,1,skulls,,P,W
+2017,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,ES,ZA,,1,,trophies,,P,W
+2017,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,FI,ZA,,1,,skulls,,P,W
+2017,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,GB,ZA,,,3,skulls,,P,W
+2017,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,JP,ZA,,2,,skulls,,P,W
+2017,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,MX,ZA,,,1,skulls,,P,W
+2017,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,NL,ZA,,,1,skulls,,P,W
+2017,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,NZ,ZA,,,2,skulls,,P,W
+2017,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,ZA,,4,3,bodies,,P,W
+2017,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,ZA,,,1,skins,,P,W
+2017,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,ZA,,,28,skulls,,P,W
+2017,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,ZA,,4,5,trophies,,P,W
+2017,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,AU,ZA,,4,2,skulls,,P,W
+2017,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,AU,ZA,,1,,trophies,,P,W
+2017,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,CA,ZA,,,1,skulls,,P,W
+2017,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,CN,ZA,,,1,skulls,,P,W
+2017,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,DE,ZA,ZW,1,,skulls,,P,W
+2017,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,ES,ZA,,,1,skins,,P,W
+2017,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,ES,ZA,,1,3,skulls,,P,W
+2017,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,ES,ZA,,2,,trophies,,P,W
+2017,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,FI,ZA,,3,3,skulls,,P,W
+2017,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,GB,ZA,,,1,bodies,,P,W
+2017,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,GB,ZA,,,1,skulls,,P,W
+2017,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,JP,ZA,,5,,skulls,,P,W
+2017,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,RO,ZA,,1,3,trophies,,P,W
+2017,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,RU,ZA,,,2,trophies,,P,W
+2017,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,US,ZA,,,1,bodies,,P,W
+2017,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,US,ZA,,,1,skins,,P,W
+2017,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,US,ZA,,1,7,skulls,,P,W
+2017,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,US,ZA,,3,3,trophies,,P,W
+2017,II,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,BE,ZA,,1,,leather products (small),,P,W
+2017,II,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,BE,ZA,,53,,skin pieces,,P,W
+2017,II,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,GB,ZA,,,1,skulls,,P,W
+2017,II,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,US,ZA,ZW,,1,skin pieces,,P,W
+2017,II,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,US,ZA,,1,,trophies,,P,W
+2017,II,Elephantidae spp.,Mammalia,Proboscidea,Elephantidae,,GB,ZA,,,1,ivory pieces,,P,W
+2017,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,AE,ZA,,,1,skulls,,P,W
+2017,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,AU,ZA,,,1,piano keys,,P,W
+2017,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,BE,ZA,,4,,feet,,P,W
+2017,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,BE,ZA,,2,,leather products (small),,P,W
+2017,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,BR,ZA,BW,20,,garments,,P,W
+2017,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,BR,ZA,BW,,5,jewellery,,P,W
+2017,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CN,ZA,,,1,piano keys,,P,W
+2017,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CN,ZA,,,1,skins,,P,W
+2017,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CN,ZA,,,2,tusks,,P,W
+2017,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,GB,ZA,XX,,1,ivory carvings,,P,W
+2017,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,GB,ZA,,,7,ivory carvings,,P,W
+2017,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,GB,ZA,,,1,piano keys,,P,W
+2017,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,IE,ZA,,,1,piano keys,,P,W
+2017,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,IL,ZA,,,4,tusks,,P,W
+2017,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,IN,ZA,,,1,hair,,P,W
+2017,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,ZA,BW,1,,ears,,P,W
+2017,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,ZA,,,2,ears,,P,W
+2017,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,ZA,,,1,ivory carvings,,P,W
+2017,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,ZA,,,52,piano keys,,P,W
+2017,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,ZA,,,1,tusks,,P,W
+2017,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,AU,ZA,NA,,1,skins,,P,W
+2017,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,LA,ZA,NA,,1,skins,,P,W
+2017,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,NO,ZA,,,1,skins,,P,W
+2017,II,Equus zebra zebra,Mammalia,Perissodactyla,Equidae,Equus,LU,ZA,,3,,skins,,P,W
+2017,II,Caracal caracal,Mammalia,Carnivora,Felidae,Caracal,AE,ZA,,,1,bodies,,P,W
+2017,II,Caracal caracal,Mammalia,Carnivora,Felidae,Caracal,BE,ZA,,1,,skulls,,P,W
+2017,II,Caracal caracal,Mammalia,Carnivora,Felidae,Caracal,CA,ZA,,,1,skins,,P,W
+2017,II,Caracal caracal,Mammalia,Carnivora,Felidae,Caracal,CA,ZA,,,1,skulls,,P,W
+2017,II,Caracal caracal,Mammalia,Carnivora,Felidae,Caracal,ES,ZA,,,1,rug,,P,W
+2017,II,Caracal caracal,Mammalia,Carnivora,Felidae,Caracal,ES,ZA,,4,3,trophies,,P,W
+2017,II,Caracal caracal,Mammalia,Carnivora,Felidae,Caracal,FR,ZA,,1,1,skins,,P,W
+2017,II,Caracal caracal,Mammalia,Carnivora,Felidae,Caracal,GB,ZA,,,2,skulls,,P,W
+2017,II,Caracal caracal,Mammalia,Carnivora,Felidae,Caracal,US,ZA,,,2,bodies,,P,W
+2017,II,Caracal caracal,Mammalia,Carnivora,Felidae,Caracal,US,ZA,,,1,skins,,P,W
+2017,II,Caracal caracal,Mammalia,Carnivora,Felidae,Caracal,US,ZA,,,3,skulls,,P,W
+2017,II,Caracal caracal,Mammalia,Carnivora,Felidae,Caracal,US,ZA,,2,2,trophies,,P,W
+2017,II,Felidae hybrid,Mammalia,Carnivora,Felidae,,US,ZA,,,1,trophies,,P,
+2017,II,Felis silvestris,Mammalia,Carnivora,Felidae,Felis,GB,ZA,,,2,skulls,,P,W
+2017,II,Felis silvestris,Mammalia,Carnivora,Felidae,Felis,US,ZA,,,2,skulls,,P,W
+2017,II,Felis silvestris,Mammalia,Carnivora,Felidae,Felis,US,ZA,,1,,trophies,,P,W
+2017,II,Leptailurus serval,Mammalia,Carnivora,Felidae,Leptailurus,DK,ZA,,1,,bodies,,P,W
+2017,II,Leptailurus serval,Mammalia,Carnivora,Felidae,Leptailurus,FR,ZA,,,1,skins,,P,W
+2017,II,Leptailurus serval,Mammalia,Carnivora,Felidae,Leptailurus,FR,ZA,,,1,skulls,,P,W
+2017,II,Leptailurus serval,Mammalia,Carnivora,Felidae,Leptailurus,FR,ZA,,1,,trophies,,P,W
+2017,II,Leptailurus serval,Mammalia,Carnivora,Felidae,Leptailurus,US,ZA,,4,,trophies,,P,W
+2017,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,BE,ZA,,13,,bones,,P,W
+2017,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,BE,ZA,,2,,skulls,,P,W
+2017,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,BE,ZA,,2,2,trophies,,P,W
+2017,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,CN,ZA,BW,,3,rug,,P,W
+2017,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,DE,ZA,,,1,bodies,,P,W
+2017,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,FI,ZA,,1,,trophies,,P,W
+2017,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,IR,ZA,BW,,1,rug,,P,W
+2017,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,IR,ZA,BW,,1,skins,,P,W
+2017,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,RU,ZA,BW,,1,rug,,P,W
+2017,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,RU,ZA,BW,,1,skins,,P,W
+2017,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,AE,ZA,,,1,skulls,,P,W
+2017,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,BE,ZA,,1,,leather products (small),,P,W
+2017,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,BE,ZA,,7,,teeth,,P,W
+2017,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,BE,ZA,,,1,trophies,,P,W
+2017,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,BE,ZA,,13,,tusks,,P,W
+2017,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,CN,ZA,,1,,ivory carvings,,P,W
+2017,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,ES,ZA,,1,1,skins,,P,W
+2017,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,IT,ZA,,,1,teeth,,P,W
+2017,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,PE,ZA,ZW,,4,tusks,,P,W
+2017,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,US,ZA,ZM,,1,tusks,,P,W
+2017,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,US,ZA,,1,,leather products (large),,P,W
+2017,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,US,ZA,,1,,leather products (small),,P,W
+2017,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,US,ZA,,1,1,skulls,,P,W
+2017,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,US,ZA,,1,,teeth,,P,W
+2017,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,US,ZA,,1,,trophies,,P,W
+2017,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,US,ZA,,,3,tusks,,P,W
+2017,II,Aloe ferox,,Liliales,Liliaceae,Aloe,AE,ZA,,,632,derivatives,g,P,W
+2017,II,Aloe ferox,,Liliales,Liliaceae,Aloe,AE,ZA,,,5400000,extract,ml,P,W
+2017,II,Aloe ferox,,Liliales,Liliaceae,Aloe,AO,ZA,,,3.312,derivatives,kg,P,W
+2017,II,Aloe ferox,,Liliales,Liliaceae,Aloe,AT,ZA,,,2366,derivatives,g,P,W
+2017,II,Aloe ferox,,Liliales,Liliaceae,Aloe,AT,ZA,,,2678.434,derivatives,kg,P,W
+2017,II,Aloe ferox,,Liliales,Liliaceae,Aloe,BE,ZA,,,7.744,derivatives,kg,P,W
+2017,II,Aloe ferox,,Liliales,Liliaceae,Aloe,CA,ZA,,,820,derivatives,g,P,W
+2017,II,Aloe ferox,,Liliales,Liliaceae,Aloe,CA,ZA,,,3.550,derivatives,kg,P,W
+2017,II,Aloe ferox,,Liliales,Liliaceae,Aloe,CH,ZA,,,3156,derivatives,g,P,W
+2017,II,Aloe ferox,,Liliales,Liliaceae,Aloe,CH,ZA,,,18.272,derivatives,kg,P,W
+2017,II,Aloe ferox,,Liliales,Liliaceae,Aloe,CN,ZA,,,798,derivatives,g,P,W
+2017,II,Aloe ferox,,Liliales,Liliaceae,Aloe,CN,ZA,,,369818.756,derivatives,kg,P,W
+2017,II,Aloe ferox,,Liliales,Liliaceae,Aloe,DE,ZA,,,4652,derivatives,g,P,W
+2017,II,Aloe ferox,,Liliales,Liliaceae,Aloe,DE,ZA,,7.952,4466.068,derivatives,kg,P,W
+2017,II,Aloe ferox,,Liliales,Liliaceae,Aloe,DE,ZA,,,92,extract,g,P,W
+2017,II,Aloe ferox,,Liliales,Liliaceae,Aloe,DE,ZA,,7.304,,extract,kg,P,W
+2017,II,Aloe ferox,,Liliales,Liliaceae,Aloe,DE,ZA,,260,,medicine,g,P,W
+2017,II,Aloe ferox,,Liliales,Liliaceae,Aloe,DK,ZA,,,4.798,derivatives,kg,P,W
+2017,II,Aloe ferox,,Liliales,Liliaceae,Aloe,ES,ZA,,,12998.742,derivatives,kg,P,W
+2017,II,Aloe ferox,,Liliales,Liliaceae,Aloe,FR,ZA,,,2916,derivatives,g,P,W
+2017,II,Aloe ferox,,Liliales,Liliaceae,Aloe,FR,ZA,,,3.776,derivatives,kg,P,W
+2017,II,Aloe ferox,,Liliales,Liliaceae,Aloe,GB,ZA,,,9728,derivatives,g,P,W
+2017,II,Aloe ferox,,Liliales,Liliaceae,Aloe,GB,ZA,,,18.082,derivatives,kg,P,W
+2017,II,Aloe ferox,,Liliales,Liliaceae,Aloe,GR,ZA,,,868,derivatives,g,P,W
+2017,II,Aloe ferox,,Liliales,Liliaceae,Aloe,GR,ZA,,,1.708,derivatives,kg,P,W
+2017,II,Aloe ferox,,Liliales,Liliaceae,Aloe,IL,ZA,,,1680,derivatives,g,P,W
+2017,II,Aloe ferox,,Liliales,Liliaceae,Aloe,IN,ZA,,,2182,derivatives,g,P,W
+2017,II,Aloe ferox,,Liliales,Liliaceae,Aloe,IN,ZA,,,3.878,derivatives,kg,P,W
+2017,II,Aloe ferox,,Liliales,Liliaceae,Aloe,IT,ZA,,,490,derivatives,g,P,W
+2017,II,Aloe ferox,,Liliales,Liliaceae,Aloe,IT,ZA,,,12.678,derivatives,kg,P,W
+2017,II,Aloe ferox,,Liliales,Liliaceae,Aloe,MX,ZA,,,8.006,derivatives,kg,P,W
+2017,II,Aloe ferox,,Liliales,Liliaceae,Aloe,NL,ZA,,,3166,derivatives,g,P,W
+2017,II,Aloe ferox,,Liliales,Liliaceae,Aloe,NL,ZA,,,18,derivatives,kg,P,W
+2017,II,Aloe ferox,,Liliales,Liliaceae,Aloe,NO,ZA,,610,,cosmetics,g,P,W
+2017,II,Aloe ferox,,Liliales,Liliaceae,Aloe,NO,ZA,,,1220,derivatives,g,P,W
+2017,II,Aloe ferox,,Liliales,Liliaceae,Aloe,NZ,ZA,,,1.288,derivatives,kg,P,W
+2017,II,Aloe ferox,,Liliales,Liliaceae,Aloe,PH,ZA,,,3.918,derivatives,kg,P,W
+2017,II,Aloe ferox,,Liliales,Liliaceae,Aloe,RU,ZA,,,8.988,derivatives,kg,P,W
+2017,II,Aloe ferox,,Liliales,Liliaceae,Aloe,SE,ZA,,,3116,derivatives,g,P,W
+2017,II,Aloe ferox,,Liliales,Liliaceae,Aloe,SE,ZA,,,3.940,derivatives,kg,P,W
+2017,II,Aloe ferox,,Liliales,Liliaceae,Aloe,TR,ZA,,,804,derivatives,g,P,W
+2017,II,Aloe ferox,,Liliales,Liliaceae,Aloe,US,ZA,,,7310,derivatives,g,P,W
+2017,II,Aloe ferox,,Liliales,Liliaceae,Aloe,US,ZA,,,487.548,derivatives,kg,P,W
+2017,II,Aonyx capensis,Mammalia,Carnivora,Mustelidae,Aonyx,BE,ZA,,1,,skulls,,P,W
+2017,II,Agapornis personatus,Aves,Psittaciformes,Psittacidae,Agapornis,JO,ZA,XX,,300,live,,P,W
+2017,II,Amazona albifrons,Aves,Psittaciformes,Psittacidae,Amazona,JO,ZA,XX,,40,live,,P,W
+2017,II,Malayopython reticulatus,Reptilia,Serpentes,Pythonidae,Malayopython,AE,ZA,XX,,2,leather products (small),,P,W
+2017,II,Malayopython reticulatus,Reptilia,Serpentes,Pythonidae,Malayopython,CH,ZA,XX,,1,leather products (small),,P,W
+2017,II,Malayopython reticulatus,Reptilia,Serpentes,Pythonidae,Malayopython,GB,ZA,TH,,1,leather products (small),,P,W
+2017,II,Malayopython reticulatus,Reptilia,Serpentes,Pythonidae,Malayopython,GB,ZA,XX,,12,leather products (small),,P,W
+2017,II,Ceratotherium simum simum,Mammalia,Perissodactyla,Rhinocerotidae,Ceratotherium,CZ,ZA,,,4,feet,,P,W
+2017,II,Ceratotherium simum simum,Mammalia,Perissodactyla,Rhinocerotidae,Ceratotherium,CZ,ZA,,,1,skins,,P,W
+2017,II,Ceratotherium simum simum,Mammalia,Perissodactyla,Rhinocerotidae,Ceratotherium,CZ,ZA,,,1,tails,,P,W
+2017,II,Sagittarius serpentarius,Aves,Falconiformes,Sagittariidae,Sagittarius,US,ZA,,,2,bodies,,P,W
+2017,II,Sagittarius serpentarius,Aves,Falconiformes,Sagittariidae,Sagittarius,US,ZA,,,1,skulls,,P,W
+2017,II,Bubo africanus,Aves,Strigiformes,Strigidae,Bubo,NO,ZA,,,1,trophies,,P,W
+2017,II,Bubo africanus,Aves,Strigiformes,Strigidae,Bubo,US,ZA,,,2,trophies,,P,W
+2017,II,Bubo capensis,Aves,Strigiformes,Strigidae,Bubo,US,ZA,,,1,trophies,,P,W
+2017,II,Strombidae spp.,Gastropoda,Mesogastropoda,Strombidae,,AU,ZA,,,1,shells,,P,W
+2017,II,Stigmochelys pardalis,Reptilia,Testudines,Testudinidae,Stigmochelys,DE,ZA,,,1,shells,,P,W
+2017,II,Stigmochelys pardalis,Reptilia,Testudines,Testudinidae,Stigmochelys,GB,ZA,,,1,shells,,P,W
+2017,II,Ursus americanus,Mammalia,Carnivora,Ursidae,Ursus,TH,ZA,CA,1,,trophies,,P,W
+2017,II,Ursus americanus,Mammalia,Carnivora,Ursidae,Ursus,TH,ZA,XX,,1,trophies,,P,W
+2017,II,Varanus albigularis,Reptilia,Sauria,Varanidae,Varanus,FI,ZA,,,1,bodies,,P,W
+2017,II,Varanus albigularis,Reptilia,Sauria,Varanidae,Varanus,FI,ZA,,1,,trophies,,P,W
+2017,III,Proteles cristata,Mammalia,Carnivora,Hyaenidae,Proteles,AR,ZA,,,1,trophies,,P,W
+2017,III,Proteles cristata,Mammalia,Carnivora,Hyaenidae,Proteles,JP,ZA,,3,,skulls,,P,W
+2017,III,Proteles cristata,Mammalia,Carnivora,Hyaenidae,Proteles,US,ZA,,,1,bodies,,P,W
+2017,III,Proteles cristata,Mammalia,Carnivora,Hyaenidae,Proteles,US,ZA,,2,1,trophies,,P,W
+2017,III,Mellivora capensis,Mammalia,Carnivora,Mustelidae,Mellivora,AR,ZA,,,1,trophies,,P,W
+2017,III,Mellivora capensis,Mammalia,Carnivora,Mustelidae,Mellivora,CA,ZA,,,1,trophies,,P,W
+2017,III,Mellivora capensis,Mammalia,Carnivora,Mustelidae,Mellivora,US,ZA,,1,,bodies,,P,W
+2017,III,Mellivora capensis,Mammalia,Carnivora,Mustelidae,Mellivora,US,ZA,,,1,skins,,P,W
+2017,III,Mellivora capensis,Mammalia,Carnivora,Mustelidae,Mellivora,US,ZA,,1,2,trophies,,P,W
+2017,III,Civettictis civetta,Mammalia,Carnivora,Viverridae,Civettictis,ES,ZA,,,1,skins,,P,W
+2017,III,Civettictis civetta,Mammalia,Carnivora,Viverridae,Civettictis,ES,ZA,,,1,skulls,,P,W
+2017,III,Civettictis civetta,Mammalia,Carnivora,Viverridae,Civettictis,ES,ZA,,1,,trophies,,P,W
+2017,III,Civettictis civetta,Mammalia,Carnivora,Viverridae,Civettictis,RO,ZA,,,1,trophies,,P,W
+2017,III,Civettictis civetta,Mammalia,Carnivora,Viverridae,Civettictis,US,ZA,,,2,skins,,P,W
+2017,III,Civettictis civetta,Mammalia,Carnivora,Viverridae,Civettictis,US,ZA,,,1,skulls,,P,W
+2017,III,Civettictis civetta,Mammalia,Carnivora,Viverridae,Civettictis,US,ZA,,2,2,trophies,,P,W
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,ZA,,52,,ivory carvings,,P,W
+2018,I,Panthera pardus,Mammalia,Carnivora,Felidae,Panthera,NZ,ZA,,,1,skins,,P,W
+2018,I,Psittacus erithacus,Aves,Psittaciformes,Psittacidae,Psittacus,CZ,ZA,NG,1,1,live,,P,W
+2018,II,Accipiter melanoleucus,Aves,Falconiformes,Accipitridae,Accipiter,US,ZA,,,1,trophies,,P,W
+2018,II,Buteo buteo,Aves,Falconiformes,Accipitridae,Buteo,US,ZA,,,1,trophies,,P,W
+2018,II,Buteo rufofuscus,Aves,Falconiformes,Accipitridae,Buteo,US,ZA,,,3,trophies,,P,W
+2018,II,Polyboroides typus,Aves,Falconiformes,Accipitridae,Polyboroides,US,ZA,,,1,trophies,,P,W
+2018,II,Caiman crocodilus yacare,Reptilia,Crocodylia,Alligatoridae,Caiman,US,ZA,BO,,1,leather products (small),,P,W
+2018,II,Sarkidiornis melanotos,Aves,Anseriformes,Anatidae,Sarkidiornis,US,ZA,,2,2,trophies,,P,W
+2018,II,Damaliscus pygargus pygargus,Mammalia,Artiodactyla,Bovidae,Damaliscus,AU,ZA,,1,,trophies,Number of specimens,P,W
+2018,II,Damaliscus pygargus pygargus,Mammalia,Artiodactyla,Bovidae,Damaliscus,US,ZA,,,1,trophies,,P,W
+2018,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,US,ZA,,1,,trophies,,P,W
+2018,II,Philantomba monticola,Mammalia,Artiodactyla,Bovidae,Philantomba,CA,ZA,,,1,trophies,,P,W
+2018,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,AU,ZA,,4,,trophies,Number of specimens,P,W
+2018,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,AU,ZA,,,3,trophies,,P,W
+2018,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,BE,ZA,,2,2,skulls,,P,W
+2018,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,CA,ZA,,,5,skulls,,P,W
+2018,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,CZ,ZA,,,2,trophies,,P,W
+2018,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,DE,ZA,,1,,skulls,,P,W
+2018,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,DE,ZA,,1,3,trophies,,P,W
+2018,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,ES,ZA,,1,,bodies,,P,W
+2018,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,ES,ZA,,2,,trophies,,P,W
+2018,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,GB,ZA,,1,1,skulls,,P,W
+2018,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,GB,ZA,,1,1,trophies,,P,W
+2018,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,NZ,ZA,,,6,skulls,,P,W
+2018,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,SE,ZA,,,1,trophies,,P,W
+2018,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,ZA,,5,10,skulls,,P,W
+2018,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,ZA,,3,3,trophies,,P,W
+2018,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,AU,ZA,,3,,trophies,Number of specimens,P,W
+2018,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,AU,ZA,,,3,trophies,,P,W
+2018,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,BG,ZA,,,1,trophies,,P,W
+2018,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,CA,ZA,,,1,trophies,,P,W
+2018,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,DE,ZA,,,1,skulls,,P,W
+2018,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,ES,ZA,,1,,bodies,,P,W
+2018,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,ES,ZA,,1,1,skulls,,P,W
+2018,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,ES,ZA,,1,,trophies,,P,W
+2018,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,GB,ZA,,2,3,skulls,,P,W
+2018,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,GB,ZA,,,2,trophies,,P,W
+2018,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,IN,ZA,,,1,trophies,,P,W
+2018,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,IT,ZA,,,1,skulls,,P,W
+2018,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,NO,ZA,,,1,trophies,,P,W
+2018,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,NZ,ZA,,1,5,skulls,,P,W
+2018,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,SE,ZA,,1,,bodies,,P,W
+2018,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,SE,ZA,,,1,trophies,,P,W
+2018,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,UA,ZA,,,3,skulls,,P,W
+2018,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,US,ZA,,1,,bodies,,P,W
+2018,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,US,ZA,,,1,bones,,P,W
+2018,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,US,ZA,,1,4,skulls,,P,W
+2018,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,US,ZA,,,7,trophies,,P,W
+2018,II,Smaug warreni,Reptilia,Sauria,Cordylidae,Smaug,HK,ZA,,9,,live,,P,W
+2018,II,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,GB,ZA,,1,1,skulls,,P,W
+2018,II,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,RO,ZA,,,1,trophies,,P,W
+2018,II,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,RU,ZA,,,1,trophies,,P,W
+2018,II,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,US,ZA,MZ,1,1,skins,,P,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CN,ZA,,5,,leather products (large),,P,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CO,ZA,TZ,,1,trophies,,P,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,GB,ZA,XX,,1,leather products (large),,P,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,NA,ZA,,,1,ivory pieces,,P,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,NZ,ZA,,,1,tusks,,P,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,ZA,,,4,feet,,P,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,AU,ZA,,,4,feet,,P,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,BR,ZA,NA,,1,skins,,P,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,ES,ZA,,,4,feet,,P,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,ES,ZA,,,1,skins,,P,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,GB,ZA,,2,,skins,,P,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,LT,ZA,,1,,trophies,,P,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,NO,ZA,,1,,skins,,P,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,NZ,ZA,NA,3,6,skins,,P,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,US,ZA,NA,,1,skins,,P,W
+2018,II,Caracal caracal,Mammalia,Carnivora,Felidae,Caracal,AU,ZA,,,1,trophies,,P,W
+2018,II,Caracal caracal,Mammalia,Carnivora,Felidae,Caracal,BE,ZA,,,3,skulls,,P,W
+2018,II,Caracal caracal,Mammalia,Carnivora,Felidae,Caracal,CZ,ZA,,,2,trophies,,P,W
+2018,II,Caracal caracal,Mammalia,Carnivora,Felidae,Caracal,GB,ZA,,,2,skulls,,P,W
+2018,II,Caracal caracal,Mammalia,Carnivora,Felidae,Caracal,HU,ZA,,,2,skins,,P,W
+2018,II,Caracal caracal,Mammalia,Carnivora,Felidae,Caracal,HU,ZA,,,2,skulls,,P,W
+2018,II,Caracal caracal,Mammalia,Carnivora,Felidae,Caracal,HU,ZA,,2,,trophies,,P,W
+2018,II,Caracal caracal,Mammalia,Carnivora,Felidae,Caracal,IT,ZA,,,1,trophies,,P,W
+2018,II,Caracal caracal,Mammalia,Carnivora,Felidae,Caracal,UA,ZA,,,2,skulls,,P,W
+2018,II,Caracal caracal,Mammalia,Carnivora,Felidae,Caracal,US,ZA,,,1,skins,,P,W
+2018,II,Caracal caracal,Mammalia,Carnivora,Felidae,Caracal,US,ZA,,2,1,skulls,,P,W
+2018,II,Caracal caracal,Mammalia,Carnivora,Felidae,Caracal,US,ZA,,,1,trophies,,P,U
+2018,II,Caracal caracal,Mammalia,Carnivora,Felidae,Caracal,US,ZA,,1,1,trophies,,P,W
+2018,II,Felis silvestris,Mammalia,Carnivora,Felidae,Felis,GB,ZA,,,1,skulls,,P,W
+2018,II,Felis silvestris,Mammalia,Carnivora,Felidae,Felis,NZ,ZA,,,1,skulls,,P,W
+2018,II,Felis silvestris,Mammalia,Carnivora,Felidae,Felis,SE,ZA,,,1,trophies,,P,W
+2018,II,Felis silvestris,Mammalia,Carnivora,Felidae,Felis,US,ZA,,1,1,trophies,,P,W
+2018,II,Leptailurus serval,Mammalia,Carnivora,Felidae,Leptailurus,ES,ZA,,2,2,trophies,,P,W
+2018,II,Leptailurus serval,Mammalia,Carnivora,Felidae,Leptailurus,IT,ZA,,,1,trophies,,P,W
+2018,II,Leptailurus serval,Mammalia,Carnivora,Felidae,Leptailurus,NZ,ZA,,,1,skins,,P,W
+2018,II,Leptailurus serval,Mammalia,Carnivora,Felidae,Leptailurus,RU,ZA,,,1,teeth,,P,W
+2018,II,Leptailurus serval,Mammalia,Carnivora,Felidae,Leptailurus,RU,ZA,,,1,trophies,,P,W
+2018,II,Leptailurus serval,Mammalia,Carnivora,Felidae,Leptailurus,US,ZA,,,2,trophies,,P,U
+2018,II,Leptailurus serval,Mammalia,Carnivora,Felidae,Leptailurus,US,ZA,,1,2,trophies,,P,W
+2018,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,BE,ZA,,4,,bones,,P,W
+2018,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,BE,ZA,,1,,skulls,,P,W
+2018,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,BE,ZA,,3,,trophies,,P,W
+2018,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,IR,ZA,BW,,2,trophies,,P,W
+2018,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,NA,ZA,,,1,trophies,,P,W
+2018,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,US,ZA,BW,,1,trophies,,P,W
+2018,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,VN,ZA,BW,1,,leather products (small),,P,W
+2018,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,AE,ZA,ZM,,7,tusks,,P,W
+2018,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,AU,ZA,,,1,trophies,,P,W
+2018,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,BE,ZA,,1,,trophies,,P,W
+2018,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,CA,ZA,ZM,,2,teeth,,P,W
+2018,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,CN,ZA,,,4,feet,,P,W
+2018,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,CN,ZA,,,1,skins,,P,W
+2018,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,CN,ZA,,1,1,trophies,,P,W
+2018,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,CN,ZA,,,1,tusks,,P,W
+2018,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,DE,ZA,,,1,skeletons,,P,W
+2018,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,GB,ZA,ZM,,1,tusks,,P,W
+2018,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,MN,ZA,ZM,,2,tusks,,P,W
+2018,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,NL,ZA,,,1,trophies,,P,W
+2018,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,PE,ZA,ZW,,1,trophies,,P,W
+2018,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,PE,ZA,ZW,4,,tusks,,P,W
+2018,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,US,ZA,ZM,1,1,teeth,,P,W
+2018,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,US,ZA,,1,1,teeth,,P,W
+2018,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,US,ZA,,1,1,trophies,,P,W
+2018,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,US,ZA,,1,1,tusks,,P,W
+2018,II,Aloe ferox,,Liliales,Liliaceae,Aloe,DE,ZA,,4.024,,cosmetics,kg,P,W
+2018,II,Aloe ferox,,Liliales,Liliaceae,Aloe,LU,ZA,,7.13,,extract,kg,P,W
+2018,II,Malayopython reticulatus,Reptilia,Serpentes,Pythonidae,Malayopython,DE,ZA,ID,,1,leather products (small),,P,W
+2018,II,Ceratotherium simum simum,Mammalia,Perissodactyla,Rhinocerotidae,Ceratotherium,FR,ZA,,1,,trophies,,P,W
+2018,II,Stigmochelys pardalis,Reptilia,Testudines,Testudinidae,Stigmochelys,CA,ZA,,,1,live,,P,W
+2018,II,Stigmochelys pardalis,Reptilia,Testudines,Testudinidae,Stigmochelys,GB,ZA,,1,,live,,P,W
+2018,II,Stigmochelys pardalis,Reptilia,Testudines,Testudinidae,Stigmochelys,US,ZA,,,1,shells,,P,W
+2018,II,Ursus arctos,Mammalia,Carnivora,Ursidae,Ursus,DE,ZA,XX,,1,skulls,,P,W
+2018,II,Anthozoa,Anthozoa,,,,NZ,ZA,,,10,derivatives,,P,U
+2018,II,Scleractinia spp.,Anthozoa,Scleractinia,,,NZ,ZA,,,6,derivatives,,P,U
+2018,III,Coralliidae spp.,Anthozoa,Gorgonacea,Coralliidae,,NZ,ZA,,,21,derivatives,,P,U
+2018,III,Proteles cristata,Mammalia,Carnivora,Hyaenidae,Proteles,BE,ZA,,1,3,skulls,,P,W
+2018,III,Proteles cristata,Mammalia,Carnivora,Hyaenidae,Proteles,DE,ZA,,1,1,trophies,,P,W
+2018,III,Proteles cristata,Mammalia,Carnivora,Hyaenidae,Proteles,GB,ZA,,,1,skulls,,P,W
+2018,III,Proteles cristata,Mammalia,Carnivora,Hyaenidae,Proteles,US,ZA,,1,1,trophies,,P,W
+2018,III,Mellivora capensis,Mammalia,Carnivora,Mustelidae,Mellivora,BE,ZA,,1,,bodies,,P,W
+2018,III,Mellivora capensis,Mammalia,Carnivora,Mustelidae,Mellivora,BE,ZA,,,1,trophies,,P,W
+2018,III,Mellivora capensis,Mammalia,Carnivora,Mustelidae,Mellivora,GB,ZA,,,1,skulls,,P,W
+2018,III,Mellivora capensis,Mammalia,Carnivora,Mustelidae,Mellivora,NL,ZA,,,1,skulls,,P,W
+2018,III,Mellivora capensis,Mammalia,Carnivora,Mustelidae,Mellivora,US,ZA,,,4,trophies,,P,W
+2018,III,Civettictis civetta,Mammalia,Carnivora,Viverridae,Civettictis,AU,ZA,,1,,trophies,Number of specimens,P,W
+2018,III,Civettictis civetta,Mammalia,Carnivora,Viverridae,Civettictis,DE,ZA,,,1,trophies,,P,W
+2018,III,Civettictis civetta,Mammalia,Carnivora,Viverridae,Civettictis,ES,ZA,,,1,skulls,,P,W
+2018,III,Civettictis civetta,Mammalia,Carnivora,Viverridae,Civettictis,ES,ZA,,1,1,trophies,,P,W
+2018,III,Civettictis civetta,Mammalia,Carnivora,Viverridae,Civettictis,IT,ZA,,,1,trophies,,P,W
+2018,III,Civettictis civetta,Mammalia,Carnivora,Viverridae,Civettictis,NZ,ZA,,1,2,skins,,P,W
+2018,III,Civettictis civetta,Mammalia,Carnivora,Viverridae,Civettictis,NZ,ZA,,1,1,skulls,,P,W
+2018,III,Civettictis civetta,Mammalia,Carnivora,Viverridae,Civettictis,US,ZA,,,1,skins,,P,W
+2018,III,Civettictis civetta,Mammalia,Carnivora,Viverridae,Civettictis,US,ZA,,,1,skulls,,P,W
+2018,III,Civettictis civetta,Mammalia,Carnivora,Viverridae,Civettictis,US,ZA,,1,1,trophies,,P,W
+2019,I,Oryx dammah,Mammalia,Artiodactyla,Bovidae,Oryx,TH,ZA,,1,,bodies,,P,W
+2019,I,Elephantidae spp.,Mammalia,Proboscidea,Elephantidae,,GB,ZA,,,1,ivory carvings,,P,W
+2019,I,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,SA,ZA,ZW,1,,trophies,,P,W
+2019,I,Psittacus erithacus,Aves,Psittaciformes,Psittacidae,Psittacus,GB,ZA,,7,7,live,,P,U
+2019,II,Elanus axillaris,Aves,Falconiformes,Accipitridae,Elanus,US,ZA,XX,,1,trophies,,P,W
+2019,II,Gyps coprotheres,Aves,Falconiformes,Accipitridae,Gyps,NZ,ZA,,,1,trophies,,P,W
+2019,II,Ammotragus lervia,Mammalia,Artiodactyla,Bovidae,Ammotragus,US,ZA,,1,,trophies,Number of specimens,P,W
+2019,II,Philantomba monticola,Mammalia,Artiodactyla,Bovidae,Philantomba,CA,ZA,,,1,trophies,,P,W
+2019,II,Philantomba monticola,Mammalia,Artiodactyla,Bovidae,Philantomba,RU,ZA,,,1,trophies,,P,W
+2019,II,Philantomba monticola,Mammalia,Artiodactyla,Bovidae,Philantomba,US,ZA,,,2,trophies,,P,W
+2019,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,AT,ZA,,,1,trophies,,P,W
+2019,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,AU,ZA,,,2,skins,,P,W
+2019,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,AU,ZA,,,2,skulls,,P,W
+2019,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,AU,ZA,,,1,trophies,,P,W
+2019,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,CZ,ZA,,2,,bodies,,P,W
+2019,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,ES,ZA,,,9,skulls,,P,W
+2019,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,FI,ZA,,1,,skulls,,P,W
+2019,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,FR,ZA,,,8,skulls,,P,W
+2019,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,FR,ZA,,,1,trophies,,P,W
+2019,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,GB,ZA,,,3,skulls,,P,W
+2019,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,MX,ZA,,,3,skulls,,P,W
+2019,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,NL,ZA,,,2,skulls,,P,W
+2019,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,SE,ZA,,1,2,skulls,,P,W
+2019,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,SE,ZA,,,4,trophies,,P,W
+2019,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,UA,ZA,,,3,skulls,,P,W
+2019,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,ZA,,1,,bodies,Number of specimens,P,W
+2019,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,ZA,,,1,bodies,,P,W
+2019,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,ZA,,,1,skins,,P,W
+2019,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,ZA,,2,,skulls,Number of specimens,P,W
+2019,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,ZA,,,41,skulls,,P,W
+2019,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,ZA,,2,,trophies,Number of specimens,P,W
+2019,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,ZA,,,7,trophies,,P,W
+2019,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,AT,ZA,,,3,trophies,,P,W
+2019,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,AU,ZA,,,4,skins,,P,W
+2019,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,AU,ZA,,,3,skulls,,P,W
+2019,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,AU,ZA,,,2,trophies,,P,W
+2019,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,BE,ZA,,,1,skulls,,P,W
+2019,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,BR,ZA,,,1,trophies,,P,W
+2019,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,CA,ZA,,,1,trophies,,P,W
+2019,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,DE,ZA,,1,,skulls,,P,W
+2019,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,DE,ZA,,,1,trophies,,P,W
+2019,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,FR,ZA,,,15,skulls,,P,W
+2019,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,GB,ZA,,,2,skulls,,P,W
+2019,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,GB,ZA,,,1,trophies,,P,W
+2019,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,MX,ZA,,,1,skulls,,P,W
+2019,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,NL,ZA,,,1,skulls,,P,W
+2019,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,NO,ZA,,,1,skulls,,P,W
+2019,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,NZ,ZA,,1,,skulls,,P,W
+2019,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,NZ,ZA,,,1,trophies,,P,W
+2019,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,PL,ZA,,1,,skulls,,P,W
+2019,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,RU,ZA,,,1,skulls,,P,W
+2019,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,SE,ZA,,1,2,skulls,,P,W
+2019,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,SE,ZA,,,1,trophies,,P,W
+2019,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,UA,ZA,,,2,skulls,,P,W
+2019,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,US,ZA,ZW,,1,skulls,,P,W
+2019,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,US,ZA,,,1,bodies,,P,W
+2019,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,US,ZA,,1,,skulls,Number of specimens,P,W
+2019,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,US,ZA,,,24,skulls,,P,W
+2019,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,US,ZA,,7,,trophies,Number of specimens,P,W
+2019,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,US,ZA,,,18,trophies,,P,W
+2019,II,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,AU,ZA,,,2,leather products (small),,P,W
+2019,II,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,AU,ZA,,,1,skulls,,P,W
+2019,II,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,CA,ZA,,,3,trophies,,P,W
+2019,II,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,GB,ZA,,,1,skulls,,P,W
+2019,II,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,NL,ZA,,,1,skulls,,P,W
+2019,II,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,TH,ZA,,1,,bodies,,P,W
+2019,II,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,US,ZA,MZ,,1,trophies,,P,W
+2019,II,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,US,ZA,,1,,skins,Number of specimens,P,W
+2019,II,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,US,ZA,,1,,skulls,Number of specimens,P,W
+2019,II,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,US,ZA,,,1,trophies,,P,W
+2019,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,AE,ZA,,,1,skulls,,P,W
+2019,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,BE,ZA,,,89,ivory carvings,,P,W
+2019,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CA,ZA,,,50,piano keys,,P,U
+2019,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,GB,ZA,ZW,,2,feet,,P,W
+2019,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,GB,ZA,,,50,piano keys,,P,W
+2019,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,GB,ZA,,,1,tusks,,P,W
+2019,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,JP,ZA,,,1,hair,,P,W
+2019,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,MU,ZA,,,11,ivory carvings,,P,W
+2019,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,MU,ZA,,,2,tusks,,P,W
+2019,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,NZ,ZA,ZW,,1,tusks,,P,W
+2019,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,NZ,ZA,,,52,piano keys,,P,W
+2019,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,NZ,ZA,,,1,trophies,,P,W
+2019,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,PT,ZA,,,1,tusks,,P,W
+2019,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,SA,ZA,NA,19,,trophies,,P,W
+2019,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,UA,ZA,,,1,trophies,,P,W
+2019,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,ZA,,,1,bones,,P,W
+2019,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,ZA,,,24,hair,,P,W
+2019,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,ZA,,,2,tusks,,P,W
+2019,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,FI,ZA,,1,,rug,,P,W
+2019,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,TH,ZA,,1,,bodies,,P,W
+2019,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,US,ZA,,1,,skins,Number of specimens,P,W
+2019,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,US,ZA,,,1,skins,,P,W
+2019,II,Falco biarmicus,Aves,Falconiformes,Falconidae,Falco,DK,ZA,,,1,trophies,,P,W
+2019,II,Caracal caracal,Mammalia,Carnivora,Felidae,Caracal,AT,ZA,,1,2,trophies,,P,W
+2019,II,Caracal caracal,Mammalia,Carnivora,Felidae,Caracal,AU,ZA,,,2,skulls,,P,W
+2019,II,Caracal caracal,Mammalia,Carnivora,Felidae,Caracal,AU,ZA,,1,,trophies,Number of specimens,P,W
+2019,II,Caracal caracal,Mammalia,Carnivora,Felidae,Caracal,AU,ZA,,,1,trophies,,P,W
+2019,II,Caracal caracal,Mammalia,Carnivora,Felidae,Caracal,CA,ZA,,,4,skulls,,P,W
+2019,II,Caracal caracal,Mammalia,Carnivora,Felidae,Caracal,CZ,ZA,,1,,bodies,,P,W
+2019,II,Caracal caracal,Mammalia,Carnivora,Felidae,Caracal,ES,ZA,,,3,skulls,,P,W
+2019,II,Caracal caracal,Mammalia,Carnivora,Felidae,Caracal,FR,ZA,,,6,skulls,,P,W
+2019,II,Caracal caracal,Mammalia,Carnivora,Felidae,Caracal,IT,ZA,,,1,trophies,,P,W
+2019,II,Caracal caracal,Mammalia,Carnivora,Felidae,Caracal,US,ZA,,,1,skins,,P,W
+2019,II,Caracal caracal,Mammalia,Carnivora,Felidae,Caracal,US,ZA,,,4,skulls,,P,W
+2019,II,Caracal caracal,Mammalia,Carnivora,Felidae,Caracal,US,ZA,,1,,trophies,Number of specimens,P,W
+2019,II,Caracal caracal,Mammalia,Carnivora,Felidae,Caracal,US,ZA,,,3,trophies,,P,W
+2019,II,Felis spp.,Mammalia,Carnivora,Felidae,Felis,US,ZA,,1,,trophies,Number of specimens,P,W
+2019,II,Felis lybica,Mammalia,Carnivora,Felidae,Felis,CA,ZA,,,1,trophies,,P,W
+2019,II,Felis silvestris,Mammalia,Carnivora,Felidae,Felis,AU,ZA,,,3,skins,,P,W
+2019,II,Felis silvestris,Mammalia,Carnivora,Felidae,Felis,ES,ZA,,2,,skins,,P,W
+2019,II,Felis silvestris,Mammalia,Carnivora,Felidae,Felis,ES,ZA,,1,3,trophies,,P,W
+2019,II,Felis silvestris,Mammalia,Carnivora,Felidae,Felis,SE,ZA,,,2,trophies,,P,W
+2019,II,Felis silvestris,Mammalia,Carnivora,Felidae,Felis,US,ZA,,,1,trophies,,P,W
+2019,II,Leptailurus serval,Mammalia,Carnivora,Felidae,Leptailurus,AU,ZA,,,1,trophies,,P,W
+2019,II,Leptailurus serval,Mammalia,Carnivora,Felidae,Leptailurus,CA,ZA,,,1,trophies,,P,W
+2019,II,Leptailurus serval,Mammalia,Carnivora,Felidae,Leptailurus,RU,ZA,,,1,trophies,,P,W
+2019,II,Leptailurus serval,Mammalia,Carnivora,Felidae,Leptailurus,US,ZA,,2,,trophies,Number of specimens,P,W
+2019,II,Leptailurus serval,Mammalia,Carnivora,Felidae,Leptailurus,US,ZA,,,3,trophies,,P,W
+2019,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,IT,ZA,,,1,trophies,,P,W
+2019,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,RU,ZA,BW,,2,rug,,P,W
+2019,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,SA,ZA,MZ,1,,trophies,,P,W
+2019,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,AE,ZA,,,3,skulls,,P,W
+2019,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,AE,ZA,,,1,trophies,,P,W
+2019,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,FR,ZA,,,2,bones,,P,W
+2019,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,NZ,ZA,,1,,bodies,,P,W
+2019,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,NZ,ZA,,,1,trophies,,P,W
+2019,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,SE,ZA,,,1,trophies,,P,W
+2019,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,US,ZA,,1,,bone carvings,Number of specimens,P,W
+2019,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,US,ZA,,,4,bodies,,P,W
+2019,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,US,ZA,,6,,bones,Number of specimens,P,W
+2019,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,US,ZA,,,25,bones,,P,W
+2019,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,US,ZA,,,3,leather products (small),,P,W
+2019,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,US,ZA,,,2,skins,,P,W
+2019,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,US,ZA,,,5,trophies,,P,W
+2019,II,Anthropoides paradiseus,Aves,Gruiformes,Gruidae,Anthropoides,NL,ZA,,,1,skulls,,P,W
+2019,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,AE,ZA,MW,,1,tusks,,P,W
+2019,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,AE,ZA,ZM,,10,tusks,,P,W
+2019,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,AE,ZA,,,1,skulls,,P,W
+2019,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,AU,ZA,,1,,trophies,Number of specimens,P,W
+2019,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,AU,ZA,,,2,trophies,,P,W
+2019,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,BE,ZA,,,2,ivory carvings,,P,W
+2019,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,BE,ZA,,,4,tusks,,P,W
+2019,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,CA,ZA,,,1,trophies,,P,W
+2019,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,GB,ZA,,,1,tusks,,P,W
+2019,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,TH,ZA,,1,,trophies,,P,W
+2019,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,US,ZA,MW,,1,tusks,,P,W
+2019,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,US,ZA,ZM,1,,tusks,Number of specimens,P,W
+2019,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,US,ZA,ZM,,7,tusks,,P,W
+2019,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,US,ZA,,,1,skins,,P,W
+2019,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,US,ZA,,1,,skulls,Number of specimens,P,W
+2019,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,US,ZA,,1,,trophies,Number of specimens,P,W
+2019,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,US,ZA,,,1,trophies,,P,W
+2019,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,US,ZA,,,1,tusks,,P,W
+2019,II,Aloe ferox,,Liliales,Liliaceae,Aloe,DE,ZA,,5.622,,cosmetics,kg,P,W
+2019,II,Aloe ferox,,Liliales,Liliaceae,Aloe,DE,ZA,,2050,,cosmetics,ml,P,W
+2019,II,Malayopython reticulatus,Reptilia,Serpentes,Pythonidae,Malayopython,DE,ZA,ID,1,,leather products (small),,P,W
+2019,II,Python natalensis,Reptilia,Serpentes,Pythonidae,Python,MU,ZA,,,1,skins,,P,W
+2019,II,Ceratotherium simum simum,Mammalia,Perissodactyla,Rhinocerotidae,Ceratotherium,BE,ZA,,,43,horns,,P,W
+2019,II,Ceratotherium simum simum,Mammalia,Perissodactyla,Rhinocerotidae,Ceratotherium,BE,ZA,,,2,skin pieces,,P,W
+2019,II,Ceratotherium simum simum,Mammalia,Perissodactyla,Rhinocerotidae,Ceratotherium,BE,ZA,,,4,trophies,,P,W
+2019,II,Sagittarius serpentarius,Aves,Falconiformes,Sagittariidae,Sagittarius,NL,ZA,,,1,skulls,,P,W
+2019,II,Stigmochelys pardalis,Reptilia,Testudines,Testudinidae,Stigmochelys,BE,ZA,,,1,trophies,,P,W
+2019,II,Stigmochelys pardalis,Reptilia,Testudines,Testudinidae,Stigmochelys,GB,ZA,,1,,carapaces,,P,U
+2019,II,Stigmochelys pardalis,Reptilia,Testudines,Testudinidae,Stigmochelys,GB,ZA,,,1,shells,,P,U
+2019,II,Stigmochelys pardalis,Reptilia,Testudines,Testudinidae,Stigmochelys,GB,ZA,,,1,shells,,P,W
+2019,II,Varanus albigularis,Reptilia,Sauria,Varanidae,Varanus,GB,ZA,,,1,skins,,P,W
+2019,II,Scleractinia spp.,Anthozoa,Scleractinia,,,NZ,ZA,,6,,jewellery,,P,U
+2019,III,Proteles cristata,Mammalia,Carnivora,Hyaenidae,Proteles,AU,ZA,,,2,trophies,,P,W
+2019,III,Proteles cristata,Mammalia,Carnivora,Hyaenidae,Proteles,RU,ZA,,,1,trophies,,P,W
+2019,III,Proteles cristata,Mammalia,Carnivora,Hyaenidae,Proteles,US,ZA,,,1,trophies,,P,W
+2019,III,Mellivora capensis,Mammalia,Carnivora,Mustelidae,Mellivora,AT,ZA,,,1,trophies,,P,W
+2019,III,Mellivora capensis,Mammalia,Carnivora,Mustelidae,Mellivora,AU,ZA,,,1,trophies,,P,W
+2019,III,Mellivora capensis,Mammalia,Carnivora,Mustelidae,Mellivora,CA,ZA,,,1,trophies,,P,W
+2019,III,Mellivora capensis,Mammalia,Carnivora,Mustelidae,Mellivora,ES,ZA,,,1,trophies,,P,W
+2019,III,Mellivora capensis,Mammalia,Carnivora,Mustelidae,Mellivora,US,ZA,,1,,bodies,Number of specimens,P,W
+2019,III,Civettictis civetta,Mammalia,Carnivora,Viverridae,Civettictis,AT,ZA,,,2,trophies,,P,W
+2019,III,Civettictis civetta,Mammalia,Carnivora,Viverridae,Civettictis,AU,ZA,,,2,skins,,P,W
+2019,III,Civettictis civetta,Mammalia,Carnivora,Viverridae,Civettictis,ES,ZA,,1,,skins,,P,W
+2019,III,Civettictis civetta,Mammalia,Carnivora,Viverridae,Civettictis,ES,ZA,,,1,trophies,,P,W
+2019,III,Civettictis civetta,Mammalia,Carnivora,Viverridae,Civettictis,IT,ZA,,,1,trophies,,P,W
+2019,III,Civettictis civetta,Mammalia,Carnivora,Viverridae,Civettictis,US,ZA,,,2,trophies,,P,W
+2020,I,Eubalaena australis,Mammalia,Cetacea,Balaenidae,Eubalaena,BE,ZA,,,1,bones,,P,W
+2020,I,Cacatua goffiniana,Aves,Psittaciformes,Cacatuidae,Cacatua,GB,ZA,,,1,live,,P,U
+2020,I,Elephantidae spp.,Mammalia,Proboscidea,Elephantidae,,AU,ZA,,,100,piano keys,,P,W
+2020,I,Elephantidae spp.,Mammalia,Proboscidea,Elephantidae,,CA,ZA,DE,,52,piano keys,,P,W
+2020,I,Elephantidae spp.,Mammalia,Proboscidea,Elephantidae,,CA,ZA,,,112,piano keys,,P,W
+2020,I,Elephantidae spp.,Mammalia,Proboscidea,Elephantidae,,GB,ZA,,,17,ivory carvings,,P,W
+2020,I,Elephantidae spp.,Mammalia,Proboscidea,Elephantidae,,GB,ZA,,,294,piano keys,,P,W
+2020,I,Elephantidae spp.,Mammalia,Proboscidea,Elephantidae,,GB,ZA,,,1,tusks,,P,W
+2020,I,Elephantidae spp.,Mammalia,Proboscidea,Elephantidae,,IT,ZA,,,100,piano keys,,P,W
+2020,I,Elephantidae spp.,Mammalia,Proboscidea,Elephantidae,,NO,ZA,,,52,piano keys,,P,W
+2020,I,Elephantidae spp.,Mammalia,Proboscidea,Elephantidae,,NZ,ZA,,,304,piano keys,,P,W
+2020,I,Elephantidae spp.,Mammalia,Proboscidea,Elephantidae,,PT,ZA,,,156,piano keys,,P,W
+2020,I,Panthera pardus,Mammalia,Carnivora,Felidae,Panthera,FR,ZA,ZW,1,,trophies,Number of specimens,P,W
+2020,I,Panthera pardus,Mammalia,Carnivora,Felidae,Panthera,US,ZA,NA,1,,trophies,Number of specimens,P,W
+2020,I,Panthera pardus,Mammalia,Carnivora,Felidae,Panthera,US,ZA,,1,,trophies,Number of specimens,P,W
+2020,I,Physeter macrocephalus,Mammalia,Cetacea,Physeteridae,Physeter,NZ,ZA,,,1,bones,,P,U
+2020,I,Psittacus erithacus,Aves,Psittaciformes,Psittacidae,Psittacus,GB,ZA,,,1,live,,P,U
+2020,I,Ceratotherium simum,Mammalia,Perissodactyla,Rhinocerotidae,Ceratotherium,BE,ZA,,48,,horns,Number of specimens,P,W
+2020,II,Ammotragus lervia,Mammalia,Artiodactyla,Bovidae,Ammotragus,CN,ZA,,,2,skulls,,P,W
+2020,II,Damaliscus pygargus,Mammalia,Artiodactyla,Bovidae,Damaliscus,US,ZA,,,1,trophies,,P,W
+2020,II,Damaliscus pygargus pygargus,Mammalia,Artiodactyla,Bovidae,Damaliscus,AU,ZA,,,2,skins,,P,W
+2020,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,US,ZA,,2,,trophies,Number of specimens,P,W
+2020,II,Philantomba monticola,Mammalia,Artiodactyla,Bovidae,Philantomba,US,ZA,,1,,skins,Number of specimens,P,W
+2020,II,Philantomba monticola,Mammalia,Artiodactyla,Bovidae,Philantomba,US,ZA,,,6,trophies,,P,W
+2020,II,Chlorocebus spp.,Mammalia,Primates,Cercopithecidae,Chlorocebus,AT,ZA,,1,,trophies,,P,W
+2020,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,AT,ZA,,,1,trophies,,P,W
+2020,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,AU,ZA,,,6,skins,,P,W
+2020,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,AU,ZA,,,4,skulls,,P,W
+2020,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,AU,ZA,,,3,trophies,,P,W
+2020,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,ES,ZA,,,2,skulls,,P,W
+2020,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,FR,ZA,,,2,skulls,,P,W
+2020,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,SE,ZA,,,4,trophies,,P,W
+2020,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,ZA,,,3,skulls,,P,W
+2020,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,ZA,,3,,trophies,Number of specimens,P,W
+2020,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,ZA,,,5,trophies,,P,W
+2020,II,Papio cynocephalus,Mammalia,Primates,Cercopithecidae,Papio,US,ZA,,1,,skins,Number of specimens,P,W
+2020,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,AT,ZA,,3,,skulls,,P,W
+2020,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,AT,ZA,,2,3,trophies,,P,W
+2020,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,AU,ZA,,,8,skins,,P,W
+2020,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,AU,ZA,,3,,skulls,Number of specimens,P,W
+2020,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,AU,ZA,,,1,skulls,,P,W
+2020,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,AU,ZA,,,4,trophies,,P,W
+2020,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,BR,ZA,,1,,trophies,Number of specimens,P,W
+2020,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,BR,ZA,,,1,trophies,,P,W
+2020,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,CA,ZA,,,4,skulls,,P,W
+2020,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,CN,ZA,,,1,skulls,,P,W
+2020,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,DE,ZA,,,1,trophies,,P,W
+2020,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,DK,ZA,,,1,skins,,P,W
+2020,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,DK,ZA,,,3,trophies,,P,W
+2020,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,ES,ZA,,,1,skulls,,P,W
+2020,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,FR,ZA,,,1,skulls,,P,W
+2020,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,GB,ZA,,,4,trophies,,P,W
+2020,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,US,ZA,,1,,skins,Number of specimens,P,W
+2020,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,US,ZA,,,1,skins,,P,W
+2020,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,US,ZA,,1,,skulls,Number of specimens,P,W
+2020,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,US,ZA,,,5,skulls,,P,W
+2020,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,US,ZA,,2,,trophies,Number of specimens,P,W
+2020,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,US,ZA,,,13,trophies,,P,W
+2020,II,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,AU,ZA,,,3,leather products (small),,P,W
+2020,II,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,AU,ZA,,,2,skulls,,P,W
+2020,II,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,GB,ZA,,,1,skulls,,P,W
+2020,II,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,IT,ZA,,,1,trophies,,P,W
+2020,II,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,RU,ZA,,,1,trophies,,P,W
+2020,II,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,SE,ZA,,1,,skins,,P,W
+2020,II,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,US,ZA,,1,,trophies,Number of specimens,P,W
+2020,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,AT,ZA,,,6,skin pieces,,P,W
+2020,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,AU,ZA,,,4,ivory carvings,,P,W
+2020,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,AU,ZA,,,52,piano keys,,P,W
+2020,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,AU,ZA,,,6,skin pieces,,P,W
+2020,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,BE,ZA,,,43,ivory carvings,,P,W
+2020,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,BE,ZA,,,3,tusks,,P,W
+2020,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,GB,ZA,,,1,trophies,,P,W
+2020,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,GB,ZA,,,2,tusks,,P,W
+2020,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,IE,ZA,,,7,ivory carvings,,P,W
+2020,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,MU,ZA,,11,,ivory carvings,,P,W
+2020,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,MU,ZA,,2,,tusks,,P,W
+2020,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,PT,ZA,,,14,jewellery - ivory ,,P,U
+2020,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,PT,ZA,,,1,ivory carvings,,P,U
+2020,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,PT,ZA,,,6,tusks,,P,U
+2020,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,UA,ZA,,,1,trophies,,P,W
+2020,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,ZA,,,1,tusks,,P,W
+2020,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,AU,ZA,,,8,feet,,P,W
+2020,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,AU,ZA,,,10,skins,,P,W
+2020,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,FR,ZA,,,1,trophies,,P,W
+2020,II,Caracal caracal,Mammalia,Carnivora,Felidae,Caracal,AT,ZA,,2,,skins,,P,W
+2020,II,Caracal caracal,Mammalia,Carnivora,Felidae,Caracal,AU,ZA,,,1,skins,,P,W
+2020,II,Caracal caracal,Mammalia,Carnivora,Felidae,Caracal,AU,ZA,,2,,skulls,Number of specimens,P,W
+2020,II,Caracal caracal,Mammalia,Carnivora,Felidae,Caracal,AU,ZA,,,1,trophies,,P,W
+2020,II,Caracal caracal,Mammalia,Carnivora,Felidae,Caracal,DK,ZA,,,1,trophies,,P,W
+2020,II,Caracal caracal,Mammalia,Carnivora,Felidae,Caracal,GB,ZA,,,4,trophies,,P,W
+2020,II,Caracal caracal,Mammalia,Carnivora,Felidae,Caracal,HR,ZA,,,1,trophies,,P,W
+2020,II,Caracal caracal,Mammalia,Carnivora,Felidae,Caracal,HU,ZA,,,2,skins,,P,W
+2020,II,Caracal caracal,Mammalia,Carnivora,Felidae,Caracal,KW,ZA,,,1,trophies,,P,W
+2020,II,Caracal caracal,Mammalia,Carnivora,Felidae,Caracal,US,ZA,,1,,skins,Number of specimens,P,W
+2020,II,Caracal caracal,Mammalia,Carnivora,Felidae,Caracal,US,ZA,,,1,skins,,P,W
+2020,II,Caracal caracal,Mammalia,Carnivora,Felidae,Caracal,US,ZA,,1,,skulls,Number of specimens,P,W
+2020,II,Caracal caracal,Mammalia,Carnivora,Felidae,Caracal,US,ZA,,2,,trophies,Number of specimens,P,W
+2020,II,Caracal caracal,Mammalia,Carnivora,Felidae,Caracal,US,ZA,,,2,trophies,,P,W
+2020,II,Felis silvestris,Mammalia,Carnivora,Felidae,Felis,AU,ZA,,,8,skins,,P,W
+2020,II,Felis silvestris,Mammalia,Carnivora,Felidae,Felis,AU,ZA,,,2,skulls,,P,W
+2020,II,Felis silvestris,Mammalia,Carnivora,Felidae,Felis,HR,ZA,,,1,trophies,,P,W
+2020,II,Felis silvestris,Mammalia,Carnivora,Felidae,Felis,SE,ZA,,,1,trophies,,P,W
+2020,II,Felis silvestris,Mammalia,Carnivora,Felidae,Felis,US,ZA,,,1,trophies,,P,W
+2020,II,Leptailurus serval,Mammalia,Carnivora,Felidae,Leptailurus,AU,ZA,,1,,trophies,Number of specimens,P,W
+2020,II,Leptailurus serval,Mammalia,Carnivora,Felidae,Leptailurus,AU,ZA,,,4,trophies,,P,W
+2020,II,Leptailurus serval,Mammalia,Carnivora,Felidae,Leptailurus,NL,ZA,,,1,trophies,,P,W
+2020,II,Leptailurus serval,Mammalia,Carnivora,Felidae,Leptailurus,US,ZA,,,2,skins,,P,W
+2020,II,Leptailurus serval,Mammalia,Carnivora,Felidae,Leptailurus,US,ZA,,1,,trophies,Number of specimens,P,W
+2020,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,AZ,ZA,BW,,1,trophies,,P,W
+2020,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,IR,ZA,BW,,2,rug,,P,W
+2020,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,SA,ZA,,,2,trophies,,P,W
+2020,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,US,ZA,NA,,2,trophies,,P,W
+2020,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,AT,ZA,,,1,bones,,P,W
+2020,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,AU,ZA,,,1,skins,,P,W
+2020,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,BE,ZA,,,1,bones,,P,W
+2020,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,BR,ZA,,,1,bones,,P,W
+2020,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,CA,ZA,,,4,bones,,P,W
+2020,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,CN,ZA,,,1,skulls,,P,W
+2020,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,CZ,ZA,,1,,bones,,P,W
+2020,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,DE,ZA,,,1,bones,,P,W
+2020,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,ES,ZA,,,1,bone carvings,,P,W
+2020,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,ES,ZA,,,1,bones,,P,W
+2020,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,ES,ZA,,1,,leather products (small),,P,W
+2020,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,ES,ZA,,,1,trophies,,P,W
+2020,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,FR,ZA,,,2,bones,,P,W
+2020,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,FR,ZA,,,1,leather products (small),,P,W
+2020,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,FR,ZA,,,2,skins,,P,W
+2020,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,GB,ZA,,,1,bones,,P,W
+2020,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,GB,ZA,,,1,skulls,,P,W
+2020,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,GB,ZA,,,1,trophies,,P,W
+2020,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,ID,ZA,,,2,bones,,P,W
+2020,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,MX,ZA,,,5,leather products (small),,P,W
+2020,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,MX,ZA,,,5,tails,,P,W
+2020,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,NO,ZA,,,2,bones,,P,W
+2020,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,NO,ZA,,,1,derivatives,,P,W
+2020,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,NZ,ZA,,1,,bodies,Number of specimens,P,W
+2020,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,NZ,ZA,,,1,trophies,,P,W
+2020,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,PL,ZA,,,3,leather products (small),,P,W
+2020,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,PL,ZA,,,1,trophies,,P,W
+2020,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,RU,ZA,,,1,skins,,P,W
+2020,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,SA,ZA,,,1,trophies,,P,W
+2020,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,TH,ZA,,,1,skins,,P,W
+2020,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,US,ZA,,16,,bone carvings,Number of specimens,P,W
+2020,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,US,ZA,,,1,bone carvings,,P,W
+2020,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,US,ZA,,15,,bones,Number of specimens,P,W
+2020,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,US,ZA,,,7,bones,,P,W
+2020,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,US,ZA,,1,,bone pieces,Number of specimens,P,W
+2020,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,US,ZA,,4,,leather products (large),Number of specimens,P,W
+2020,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,US,ZA,,,19,leather products (small),,P,W
+2020,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,US,ZA,,1,,rug,Number of specimens,P,W
+2020,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,US,ZA,,3,,skins,Number of specimens,P,W
+2020,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,US,ZA,,,9,skins,,P,W
+2020,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,US,ZA,,17,,skin pieces,Number of specimens,P,W
+2020,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,US,ZA,,2,,skulls,Number of specimens,P,W
+2020,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,US,ZA,,,1,skulls,,P,W
+2020,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,US,ZA,,1,,tails,Number of specimens,P,W
+2020,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,US,ZA,,4,,trophies,Number of specimens,P,W
+2020,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,US,ZA,,,14,trophies,,P,W
+2020,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,AU,ZA,,,1,skins,,P,W
+2020,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,AU,ZA,,,2,skulls,,P,W
+2020,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,AU,ZA,,,1,trophies,,P,W
+2020,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,BE,ZA,,,1,ivory carvings,,P,W
+2020,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,ES,ZA,,,2,skulls,,P,W
+2020,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,IE,ZA,,,1,tusks,,P,W
+2020,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,RU,ZA,ZM,,6,leather products (large),,P,W
+2020,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,SE,ZA,,2,1,trophies,,P,W
+2020,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,US,ZA,ZM,1,,tusks,Number of specimens,P,W
+2020,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,US,ZA,,,2,skins,,P,W
+2020,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,US,ZA,,,1,tails,,P,W
+2020,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,US,ZA,,,4,trophies,,P,W
+2020,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,US,ZA,,13,,tusks,Number of specimens,P,W
+2020,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,US,ZA,,,12,tusks,,P,W
+2020,II,Carcharodon carcharias,Elasmobranchii,Lamniformes,Lamnidae,Carcharodon,AT,ZA,,,1,bones,,P,W
+2020,II,Isurus oxyrinchus,Elasmobranchii,Lamniformes,Lamnidae,Isurus,GB,ZA,,,1,bones,,P,W
+2020,II,Aloe ferox,,Liliales,Liliaceae,Aloe,DE,ZA,,44,,cosmetics,,P,W
+2020,II,Conepatus humboldtii,Mammalia,Carnivora,Mephitidae,Conepatus,AU,ZA,XX,,2,skins,,P,W
+2020,II,Nautilidae spp.,Cephalopoda,Nautilida,Nautilidae,,GB,ZA,,,1,shells,,P,U
+2020,II,Python sebae,Reptilia,Serpentes,Pythonidae,Python,MU,ZA,XX,1,,skin pieces,,P,W
+2020,II,Stigmochelys pardalis,Reptilia,Testudines,Testudinidae,Stigmochelys,BE,ZA,,,1,scales,,P,W
+2020,II,Stigmochelys pardalis,Reptilia,Testudines,Testudinidae,Stigmochelys,DE,ZA,,,1,shells,,P,W
+2020,II,Stigmochelys pardalis,Reptilia,Testudines,Testudinidae,Stigmochelys,US,ZA,,,2,shells,,P,W
+2020,II,Tridacna gigas,Bivalvia,Veneroida,Tridacnidae,Tridacna,AT,ZA,XX,,1,shells,,P,W
+2020,II,Varanus niloticus,Reptilia,Sauria,Varanidae,Varanus,GB,ZA,,,1,trophies,,P,W
+2020,II,Varanus salvator,Reptilia,Sauria,Varanidae,Varanus,GB,ZA,XX,,2,trophies,,P,W
+2020,III,Proteles cristata,Mammalia,Carnivora,Hyaenidae,Proteles,AU,ZA,,,2,trophies,,P,W
+2020,III,Proteles cristata,Mammalia,Carnivora,Hyaenidae,Proteles,US,ZA,,,2,trophies,,P,W
+2020,III,Mellivora capensis,Mammalia,Carnivora,Mustelidae,Mellivora,AT,ZA,,1,,trophies,,P,W
+2020,III,Mellivora capensis,Mammalia,Carnivora,Mustelidae,Mellivora,AU,ZA,,,2,skulls,,P,W
+2020,III,Mellivora capensis,Mammalia,Carnivora,Mustelidae,Mellivora,AU,ZA,,,2,trophies,,P,W
+2020,III,Mellivora capensis,Mammalia,Carnivora,Mustelidae,Mellivora,ES,ZA,,,1,skulls,,P,W
+2020,III,Mellivora capensis,Mammalia,Carnivora,Mustelidae,Mellivora,ES,ZA,,1,,trophies,,P,W
+2020,III,Mellivora capensis,Mammalia,Carnivora,Mustelidae,Mellivora,US,ZA,,1,,trophies,Number of specimens,P,W
+2020,III,Mellivora capensis,Mammalia,Carnivora,Mustelidae,Mellivora,US,ZA,,,2,trophies,,P,W
+2020,III,Civettictis civetta,Mammalia,Carnivora,Viverridae,Civettictis,AT,ZA,,4,3,trophies,,P,W
+2020,III,Civettictis civetta,Mammalia,Carnivora,Viverridae,Civettictis,AU,ZA,,,4,skins,,P,W
+2020,III,Civettictis civetta,Mammalia,Carnivora,Viverridae,Civettictis,US,ZA,,1,,trophies,Number of specimens,P,W
+2020,III,Civettictis civetta,Mammalia,Carnivora,Viverridae,Civettictis,US,ZA,,,5,trophies,,P,W
+2021,I,Eubalaena australis,Mammalia,Cetacea,Balaenidae,Eubalaena,BE,ZA,,,1,bones,,P,W
+2021,I,Oryx dammah,Mammalia,Artiodactyla,Bovidae,Oryx,CA,ZA,,1,,skin pieces,Number of specimens,P,W
+2021,I,Cacatua goffiniana,Aves,Psittaciformes,Cacatuidae,Cacatua,GB,ZA,XX,1,,live,Number of specimens,P,U
+2021,I,Cacatua goffiniana,Aves,Psittaciformes,Cacatuidae,Cacatua,GB,ZA,,1,,live,Number of specimens,P,U
+2021,I,Cacatua goffiniana,Aves,Psittaciformes,Cacatuidae,Cacatua,GB,ZA,,,1,live,,P,U
+2021,I,Elephantidae spp.,Mammalia,Proboscidea,Elephantidae,,AU,ZA,,,52,piano keys,,P,W
+2021,I,Elephantidae spp.,Mammalia,Proboscidea,Elephantidae,,BS,ZA,,,52,piano keys,,P,W
+2021,I,Elephantidae spp.,Mammalia,Proboscidea,Elephantidae,,CH,ZA,,,52,piano keys,,P,W
+2021,I,Elephantidae spp.,Mammalia,Proboscidea,Elephantidae,,DE,ZA,,,104,piano keys,,P,W
+2021,I,Elephantidae spp.,Mammalia,Proboscidea,Elephantidae,,GB,ZA,,,312,piano keys,,P,W
+2021,I,Elephantidae spp.,Mammalia,Proboscidea,Elephantidae,,GB,ZA,,,1,tusks,,P,W
+2021,I,Elephantidae spp.,Mammalia,Proboscidea,Elephantidae,,IE,ZA,,,135,piano keys,,P,W
+2021,I,Elephantidae spp.,Mammalia,Proboscidea,Elephantidae,,NZ,ZA,,,52,ivory carvings,,P,W
+2021,I,Elephantidae spp.,Mammalia,Proboscidea,Elephantidae,,NZ,ZA,,,50,piano keys,,P,W
+2021,I,Elephantidae spp.,Mammalia,Proboscidea,Elephantidae,,US,ZA,,,50,piano keys,,P,W
+2021,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,BE,ZA,,10.69,,ivory carvings,kg,P,W
+2021,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,BE,ZA,,3,,tusks,Number of specimens,P,W
+2021,I,Panthera pardus,Mammalia,Carnivora,Felidae,Panthera,CN,ZA,BW,1,,bodies,Number of specimens,P,W
+2021,I,Panthera pardus,Mammalia,Carnivora,Felidae,Panthera,CN,ZA,BW,,1,trophies,,P,W
+2021,I,Physeter macrocephalus,Mammalia,Cetacea,Physeteridae,Physeter,NZ,ZA,,,1,bones,,P,U
+2021,I,Psittacus erithacus,Aves,Psittaciformes,Psittacidae,Psittacus,GB,ZA,,,1,live,,P,U
+2021,II,Gyps coprotheres,Aves,Falconiformes,Accipitridae,Gyps,AT,ZA,,,1,skulls,,P,W
+2021,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,US,ZA,,,1,trophies,,P,W
+2021,II,Philantomba monticola,Mammalia,Artiodactyla,Bovidae,Philantomba,ES,ZA,,,1,trophies,,P,W
+2021,II,Philantomba monticola,Mammalia,Artiodactyla,Bovidae,Philantomba,GB,ZA,,,1,trophies,,P,W
+2021,II,Philantomba monticola,Mammalia,Artiodactyla,Bovidae,Philantomba,US,ZA,,,2,trophies,,P,W
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,ZA,,,2,trophies,,P,W
+2021,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,AT,ZA,,,1,trophies,,P,W
+2021,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,AU,ZA,,,3,skins,,P,W
+2021,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,AU,ZA,,,1,skulls,,P,W
+2021,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,AU,ZA,,,1,trophies,,P,W
+2021,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,FR,ZA,,,2,skulls,,P,W
+2021,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,FR,ZA,,,1,trophies,,P,W
+2021,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,GB,ZA,,,4,trophies,,P,W
+2021,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,IE,ZA,,,1,skulls,,P,W
+2021,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,SE,ZA,,2,,trophies,,P,W
+2021,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,ZA,,,3,trophies,,P,W
+2021,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,AT,ZA,,,1,skulls,,P,W
+2021,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,AU,ZA,,,4,skins,,P,W
+2021,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,AU,ZA,,,1,skulls,,P,W
+2021,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,AU,ZA,,,1,trophies,,P,W
+2021,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,BR,ZA,,,1,trophies,,P,W
+2021,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,DE,ZA,,2,,bodies,Number of specimens,P,W
+2021,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,DE,ZA,,1,,trophies,Number of specimens,P,W
+2021,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,DE,ZA,,,2,trophies,,P,W
+2021,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,DK,ZA,,,1,skulls,,P,W
+2021,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,DK,ZA,,6,5,trophies,,P,W
+2021,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,ES,ZA,,1,,trophies,Number of specimens,P,W
+2021,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,ES,ZA,,,3,trophies,,P,W
+2021,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,FR,ZA,,,1,skulls,,P,W
+2021,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,GB,ZA,,,7,trophies,,P,W
+2021,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,IE,ZA,,,2,skulls,,P,W
+2021,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,SE,ZA,,,1,skulls,,P,W
+2021,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,SK,ZA,,,1,trophies,,P,W
+2021,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,US,ZA,,,3,skulls,,P,W
+2021,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,US,ZA,,,28,trophies,,P,W
+2021,II,Bradypodion pumilum,Reptilia,Sauria,Chamaeleonidae,Bradypodion,IE,ZA,,,10,skeletons,,P,W
+2021,II,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,AR,ZA,,,1,trophies,,P,W
+2021,II,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,AU,ZA,,,1,leather products (small),,P,W
+2021,II,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,AU,ZA,,,1,skulls,,P,W
+2021,II,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,GB,ZA,,1,,skulls,Number of specimens,P,W
+2021,II,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,US,ZA,,,2,skins,,P,W
+2021,II,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,US,ZA,,,2,skin pieces,,P,W
+2021,II,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,US,ZA,,,1,skulls,,P,W
+2021,II,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,US,ZA,,,1,trophies,,P,W
+2021,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,AT,ZA,,6,,skin pieces,,P,W
+2021,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,DE,ZA,,,104,piano keys,,P,W
+2021,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,ES,ZA,,1,,leather products (large),Number of specimens,P,W
+2021,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,FR,ZA,,,1,derivatives,,P,W
+2021,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,FR,ZA,,,1,tusks,,P,W
+2021,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,GB,ZA,,,2,ivory pieces,,P,W
+2021,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,GB,ZA,,,52,piano keys,,P,W
+2021,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,MU,ZA,,,52,piano keys,,P,W
+2021,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,PT,ZA,,,52,piano keys,,P,U
+2021,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,PT,ZA,,,1,tusks,,P,W
+2021,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,SI,ZA,,,52,piano keys,,P,W
+2021,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,ZA,,,1,ivory carvings,,P,W
+2021,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,ZW,ZA,,,1,tusks,,P,W
+2021,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,AU,ZA,,,4,feet,,P,W
+2021,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,AU,ZA,,,5,skins,,P,W
+2021,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,ES,ZA,,1,,skins,Number of specimens,P,W
+2021,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,GB,ZA,,,2,skins,,P,W
+2021,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,HU,ZA,,1,,skins,,P,W
+2021,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,KR,ZA,,,2,skins,,P,W
+2021,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,MT,ZA,,,8,skins,,P,W
+2021,II,Caracal caracal,Mammalia,Carnivora,Felidae,Caracal,BE,ZA,,1,,bodies,Number of specimens,P,W
+2021,II,Caracal caracal,Mammalia,Carnivora,Felidae,Caracal,BE,ZA,,,1,trophies,,P,W
+2021,II,Caracal caracal,Mammalia,Carnivora,Felidae,Caracal,CA,ZA,,,1,trophies,,P,W
+2021,II,Caracal caracal,Mammalia,Carnivora,Felidae,Caracal,DK,ZA,,2,,trophies,,P,W
+2021,II,Caracal caracal,Mammalia,Carnivora,Felidae,Caracal,GB,ZA,,,1,skins,,P,W
+2021,II,Caracal caracal,Mammalia,Carnivora,Felidae,Caracal,GB,ZA,,,2,trophies,,P,W
+2021,II,Caracal caracal,Mammalia,Carnivora,Felidae,Caracal,HU,ZA,,1,,trophies,,P,W
+2021,II,Caracal caracal,Mammalia,Carnivora,Felidae,Caracal,LV,ZA,,,1,trophies,,P,W
+2021,II,Caracal caracal,Mammalia,Carnivora,Felidae,Caracal,PH,ZA,,,1,bodies,,P,W
+2021,II,Caracal caracal,Mammalia,Carnivora,Felidae,Caracal,RO,ZA,,1,,trophies,Number of specimens,P,W
+2021,II,Caracal caracal,Mammalia,Carnivora,Felidae,Caracal,RU,ZA,,,1,trophies,,P,W
+2021,II,Caracal caracal,Mammalia,Carnivora,Felidae,Caracal,US,ZA,,,3,trophies,,P,W
+2021,II,Felis lybica,Mammalia,Carnivora,Felidae,Felis,AU,ZA,,,3,skins,,P,W
+2021,II,Felis lybica,Mammalia,Carnivora,Felidae,Felis,AU,ZA,,,1,skulls,,P,W
+2021,II,Felis lybica,Mammalia,Carnivora,Felidae,Felis,MX,ZA,,,1,trophies,,P,W
+2021,II,Felis silvestris,Mammalia,Carnivora,Felidae,Felis,SK,ZA,,,2,trophies,,P,W
+2021,II,Leptailurus serval,Mammalia,Carnivora,Felidae,Leptailurus,AU,ZA,,,1,trophies,,P,W
+2021,II,Leptailurus serval,Mammalia,Carnivora,Felidae,Leptailurus,CH,ZA,,1,,trophies,Number of specimens,P,W
+2021,II,Leptailurus serval,Mammalia,Carnivora,Felidae,Leptailurus,ES,ZA,,1,,trophies,Number of specimens,P,W
+2021,II,Leptailurus serval,Mammalia,Carnivora,Felidae,Leptailurus,ES,ZA,,,1,trophies,,P,W
+2021,II,Leptailurus serval,Mammalia,Carnivora,Felidae,Leptailurus,SK,ZA,,,1,trophies,,P,W
+2021,II,Leptailurus serval,Mammalia,Carnivora,Felidae,Leptailurus,SZ,ZA,,,12,trophies,,P,W
+2021,II,Leptailurus serval,Mammalia,Carnivora,Felidae,Leptailurus,US,ZA,,,4,trophies,,P,W
+2021,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,AE,ZA,BW,,1,trophies,,P,W
+2021,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,AE,ZA,,,2,trophies,,P,W
+2021,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,CN,ZA,,,1,rug,,P,W
+2021,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,CN,ZA,,,1,skins,,P,W
+2021,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,DE,ZA,,,1,trophies,,P,W
+2021,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,ES,ZA,,,1,trophies,,P,W
+2021,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,NO,ZA,,,1,trophies,,P,W
+2021,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,XX,ZA,,,2,trophies,,P,W
+2021,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,ZM,ZA,ZM,,1,trophies,,P,W
+2021,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,CH,ZA,,1,,trophies,Number of specimens,P,W
+2021,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,DE,ZA,ZW,1,,bone carvings,Number of specimens,P,W
+2021,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,DK,ZA,,2,,trophies,,P,W
+2021,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,GB,ZA,,1,,bodies,Number of specimens,P,W
+2021,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,IS,ZA,,1,,trophies,,P,W
+2021,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,MX,ZA,,,5,tails,,P,W
+2021,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,NO,ZA,,1,,skulls,Number of specimens,P,W
+2021,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,NO,ZA,,2,,trophies,Number of specimens,P,W
+2021,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,NZ,ZA,,1,,skulls,Number of specimens,P,W
+2021,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,RO,ZA,,1,,bone carvings,Number of specimens,P,W
+2021,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,RO,ZA,,1,,skins,Number of specimens,P,W
+2021,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,SA,ZA,,4,,bone carvings,Number of specimens,P,W
+2021,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,SA,ZA,,1,,bodies,Number of specimens,P,W
+2021,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,SA,ZA,,1,,bone pieces,Number of specimens,P,W
+2021,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,SA,ZA,,1,,carvings,Number of specimens,P,W
+2021,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,SA,ZA,,1,,meat,Number of specimens,P,W
+2021,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,SA,ZA,,1,,skulls,Number of specimens,P,W
+2021,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,TZ,ZA,,,1,skins,,P,W
+2021,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,US,ZA,,,2,bones,,P,W
+2021,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,US,ZA,,,59,leather products (small),,P,W
+2021,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,US,ZA,,,1,skins,,P,W
+2021,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,AE,ZA,,,1,teeth,,P,W
+2021,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,AT,ZA,,,2,teeth,,P,W
+2021,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,AT,ZA,,,1,trophies,,P,W
+2021,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,AU,ZA,,,3,skins,,P,W
+2021,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,AU,ZA,,,1,skulls,,P,W
+2021,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,BE,ZA,,2.44,,ivory carvings,kg,P,W
+2021,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,CA,ZA,,,2,tusks,,P,W
+2021,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,FR,ZA,,,3,teeth,,P,W
+2021,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,FR,ZA,,,1,trophies,,P,W
+2021,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,IN,ZA,MW,,1,teeth,,P,W
+2021,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,PL,ZA,,4,,teeth,Number of specimens,P,W
+2021,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,PL,ZA,,,4,tusks,,P,W
+2021,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,RO,ZA,,6,,tusks,Number of specimens,P,W
+2021,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,RO,ZA,,,6,tusks,,P,W
+2021,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,RU,ZA,,,2,trophies,,P,W
+2021,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,US,ZA,,,26,leather products (small),,P,W
+2021,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,US,ZA,,,4,skins,,P,W
+2021,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,US,ZA,,,2,skin pieces,,P,W
+2021,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,US,ZA,,,2,trophies,,P,W
+2021,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,US,ZA,,,19,tusks,,P,W
+2021,II,Carcharodon carcharias,Elasmobranchii,Lamniformes,Lamnidae,Carcharodon,AT,ZA,,,1,bones,,P,W
+2021,II,Isurus oxyrinchus,Elasmobranchii,Lamniformes,Lamnidae,Isurus,GB,ZA,,,1,bones,,P,W
+2021,II,Conepatus humboldtii,Mammalia,Carnivora,Mephitidae,Conepatus,AU,ZA,XX,,1,skins,,P,W
+2021,II,Aonyx capensis,Mammalia,Carnivora,Mustelidae,Aonyx,PL,ZA,,1,,skulls,Number of specimens,P,W
+2021,II,Arctocephalus spp.,Mammalia,Carnivora,Otariidae,Arctocephalus,NZ,ZA,,,1,skins,,P,U
+2021,II,Ceratotherium simum simum,Mammalia,Perissodactyla,Rhinocerotidae,Ceratotherium,BE,ZA,,,6,trophies,,P,W
+2021,II,Psammobates oculifer,Reptilia,Testudines,Testudinidae,Psammobates,DE,ZA,,,1,shells,,P,W
+2021,II,Stigmochelys pardalis,Reptilia,Testudines,Testudinidae,Stigmochelys,BE,ZA,,0.24,,scales,kg,P,W
+2021,II,Stigmochelys pardalis,Reptilia,Testudines,Testudinidae,Stigmochelys,BE,ZA,,1,,skulls,Number of specimens,P,W
+2021,II,Stigmochelys pardalis,Reptilia,Testudines,Testudinidae,Stigmochelys,DE,ZA,,,1,shells,,P,W
+2021,II,Tridacna gigas,Bivalvia,Veneroida,Tridacnidae,Tridacna,AT,ZA,XX,,1,shells,,P,W
+2021,II,Varanus niloticus,Reptilia,Sauria,Varanidae,Varanus,GB,ZA,,,3,trophies,,P,W
+2021,III,Antilope cervicapra,Mammalia,Artiodactyla,Bovidae,Antilope,IT,ZA,,,1,trophies,,P,W
+2021,III,Odocoileus virginianus,Mammalia,Artiodactyla,Cervidae,Odocoileus,US,ZA,,,1,trophies,,P,W
+2021,III,Proteles cristata,Mammalia,Carnivora,Hyaenidae,Proteles,AU,ZA,,,1,trophies,,P,W
+2021,III,Proteles cristata,Mammalia,Carnivora,Hyaenidae,Proteles,GB,ZA,,,1,trophies,,P,W
+2021,III,Proteles cristata,Mammalia,Carnivora,Hyaenidae,Proteles,IT,ZA,,,1,trophies,,P,W
+2021,III,Proteles cristata,Mammalia,Carnivora,Hyaenidae,Proteles,SK,ZA,,,2,trophies,,P,W
+2021,III,Proteles cristata,Mammalia,Carnivora,Hyaenidae,Proteles,US,ZA,,,1,trophies,,P,W
+2021,III,Civettictis civetta,Mammalia,Carnivora,Viverridae,Civettictis,AU,ZA,,,2,skins,,P,W
+2021,III,Civettictis civetta,Mammalia,Carnivora,Viverridae,Civettictis,PE,ZA,,,1,skins,,P,W
+2021,III,Civettictis civetta,Mammalia,Carnivora,Viverridae,Civettictis,US,ZA,,,8,trophies,,P,W
+2022,I,Psittacus erithacus,Aves,Psittaciformes,Psittacidae,Psittacus,GB,ZA,,2,,live,Number of specimens,P,U
+2022,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,FR,ZA,,2,,trophies,Number of specimens,P,W
+2022,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,DK,ZA,,1,,bodies,,P,W
+2022,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,BH,ZA,,2,,tusks,Number of specimens,P,W
+2022,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,ES,ZA,,1,,trophies,Number of specimens,P,W
+2022,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,FR,ZA,,1,,trophies,Number of specimens,P,W
+2022,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,GB,ZA,,1,,skins,Number of specimens,P,W
+2022,II,Equus zebra zebra,Mammalia,Perissodactyla,Equidae,Equus,GB,ZA,,1,,skins,Number of specimens,P,W
+2022,II,Caracal caracal,Mammalia,Carnivora,Felidae,Caracal,GB,ZA,,1,,skins,Number of specimens,P,W
+2022,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,DK,ZA,,2,,bones,,P,W
+2022,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,DK,ZA,,1,,skulls,,P,W
+2022,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,ES,ZA,,3,,trophies,Number of specimens,P,W
+2022,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,FR,ZA,,1,,skins,Number of specimens,P,W
+2022,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,HU,ZA,,24,,bones,,P,W
+2022,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,HU,ZA,,7,,skins,,P,W
+2022,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,JP,ZA,,1,,bones,Number of specimens,P,W
+2022,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,JP,ZA,,5,,skulls,Number of specimens,P,W
+2022,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,LU,ZA,,5,,trophies,,P,W
+2022,II,Trichoglossus haematodus,Aves,Psittaciformes,Loriidae,Trichoglossus,GB,ZA,,1,,live,Number of specimens,P,U
+2022,II,Ceratotherium simum simum,Mammalia,Perissodactyla,Rhinocerotidae,Ceratotherium,BE,ZA,,2,,horns,Number of specimens,P,W
+2022,II,Ceratotherium simum simum,Mammalia,Perissodactyla,Rhinocerotidae,Ceratotherium,BE,ZA,,2,,skins,Number of specimens,P,W
+2022,II,Ceratotherium simum simum,Mammalia,Perissodactyla,Rhinocerotidae,Ceratotherium,FR,ZA,,2,,trophies,Number of specimens,P,W
