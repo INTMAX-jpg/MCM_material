@@ -1,0 +1,9 @@
+LocationID,Loc_X,Loc_Y,Type
+Dorm_North,300,1700,Residential
+Dorm_South,1600,200,Residential
+Science_Hall,800,1200,Academic
+Arts_Building,1200,1000,Academic
+Central_Library,1000,1100,Academic
+Student_Center,1000,800,Dining
+Sports_Complex,1800,1500,Recreation
+Main_Gate,100,100,Transport_Hub
